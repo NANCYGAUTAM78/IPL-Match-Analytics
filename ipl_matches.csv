@@ -1,0 +1,961 @@
+match_id,season,venue,team1,team2,toss_winner,toss_decision,team1_score,team1_wickets,team1_powerplay_runs,team1_run_rate,team2_score,team2_wickets,team2_powerplay_runs,team2_run_rate,winner,win_by_runs,win_by_wickets
+1,2008,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,173,5,47,8.65,183,3,50,9.15,Punjab Kings,0,7
+2,2008,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,192,10,46,9.6,167,7,44,8.35,Royal Challengers Bangalore,25,0
+3,2008,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,193,4,52,9.65,195,5,42,9.75,Sunrisers Hyderabad,0,5
+4,2008,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,174,7,45,8.7,179,9,42,8.95,Punjab Kings,0,1
+5,2008,"Eden Gardens, Kolkata",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,169,9,36,8.45,174,3,33,8.7,Punjab Kings,0,7
+6,2008,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,154,9,41,7.7,148,8,48,7.4,Royal Challengers Bangalore,6,0
+7,2008,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,148,8,39,7.4,142,9,56,7.1,Rajasthan Royals,6,0
+8,2008,"Eden Gardens, Kolkata",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,160,5,48,8.0,149,9,36,7.45,Delhi Capitals,11,0
+9,2008,"Eden Gardens, Kolkata",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,155,9,48,7.75,170,8,37,8.5,Chennai Super Kings,0,2
+10,2008,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,171,9,44,8.55,186,7,43,9.3,Mumbai Indians,0,3
+11,2008,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,154,10,59,7.7,156,4,45,7.8,Sunrisers Hyderabad,0,6
+12,2008,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,145,7,52,7.25,130,10,37,6.5,Sunrisers Hyderabad,15,0
+13,2008,"Wankhede Stadium, Mumbai",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,168,10,36,8.4,164,8,36,8.2,Punjab Kings,4,0
+14,2008,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,168,8,52,8.4,147,8,47,7.35,Delhi Capitals,21,0
+15,2008,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,162,7,46,8.1,177,5,35,8.85,Mumbai Indians,0,5
+16,2008,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,bat,152,9,45,7.6,154,9,53,7.7,Mumbai Indians,0,1
+17,2008,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,171,8,37,8.55,157,7,48,7.85,Sunrisers Hyderabad,14,0
+18,2008,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,158,8,43,7.9,162,4,50,8.1,Rajasthan Royals,0,6
+19,2008,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,183,4,53,9.15,194,3,40,9.7,Sunrisers Hyderabad,0,7
+20,2008,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,159,6,49,7.95,152,10,52,7.6,Royal Challengers Bangalore,7,0
+21,2008,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,156,5,46,7.8,167,6,38,8.35,Rajasthan Royals,0,4
+22,2008,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,143,4,52,7.15,149,9,55,7.45,Royal Challengers Bangalore,0,1
+23,2008,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,163,7,54,8.15,171,4,48,8.55,Kolkata Knight Riders,0,6
+24,2008,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,153,10,50,7.65,147,9,56,7.35,Mumbai Indians,6,0
+25,2008,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,164,7,57,8.2,171,5,27,8.55,Royal Challengers Bangalore,0,5
+26,2008,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,179,5,48,8.95,180,7,43,9.0,Sunrisers Hyderabad,0,3
+27,2008,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,166,8,36,8.3,149,7,44,7.45,Chennai Super Kings,17,0
+28,2008,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,171,9,56,8.55,158,6,42,7.9,Chennai Super Kings,13,0
+29,2008,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,150,9,44,7.5,133,8,52,6.65,Royal Challengers Bangalore,17,0
+30,2008,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,field,170,5,44,8.5,160,9,49,8.0,Punjab Kings,10,0
+31,2008,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,166,4,53,8.3,175,5,41,8.75,Delhi Capitals,0,5
+32,2008,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,159,5,45,7.95,168,8,35,8.4,Kolkata Knight Riders,0,2
+33,2008,"Wankhede Stadium, Mumbai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,170,5,49,8.5,185,3,46,9.25,Kolkata Knight Riders,0,7
+34,2008,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,160,5,39,8.0,151,10,43,7.55,Sunrisers Hyderabad,9,0
+35,2008,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,158,4,43,7.9,171,4,44,8.55,Sunrisers Hyderabad,0,6
+36,2008,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,172,4,59,8.6,187,8,47,9.35,Mumbai Indians,0,2
+37,2008,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,169,5,47,8.45,175,9,32,8.75,Punjab Kings,0,1
+38,2008,"Eden Gardens, Kolkata",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,164,6,48,8.2,150,10,63,7.5,Chennai Super Kings,14,0
+39,2008,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,161,5,49,8.05,150,9,45,7.5,Sunrisers Hyderabad,11,0
+40,2008,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,143,10,54,7.15,151,4,51,7.55,Sunrisers Hyderabad,0,6
+41,2008,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,179,5,42,8.95,183,6,55,9.15,Delhi Capitals,0,4
+42,2008,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,139,9,51,6.95,121,8,61,6.05,Rajasthan Royals,18,0
+43,2008,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,147,4,44,7.35,135,8,46,6.75,Chennai Super Kings,12,0
+44,2008,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,155,4,38,7.75,154,10,46,7.7,Delhi Capitals,1,0
+45,2008,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,145,9,50,7.25,121,8,39,6.05,Royal Challengers Bangalore,24,0
+46,2008,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,192,8,43,9.6,199,8,43,9.95,Rajasthan Royals,0,2
+47,2008,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,179,8,40,8.95,169,8,47,8.45,Delhi Capitals,10,0
+48,2008,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,188,9,38,9.4,196,9,47,9.8,Kolkata Knight Riders,0,1
+49,2008,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,169,10,52,8.45,161,8,37,8.05,Sunrisers Hyderabad,8,0
+50,2008,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,141,5,51,7.05,121,6,48,6.05,Royal Challengers Bangalore,20,0
+51,2008,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,169,7,50,8.45,180,8,41,9.0,Royal Challengers Bangalore,0,2
+52,2008,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,169,10,49,8.45,152,9,40,7.6,Chennai Super Kings,17,0
+53,2008,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,198,10,50,9.9,207,7,37,10.35,Punjab Kings,0,3
+54,2008,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,176,5,42,8.8,160,9,51,8.0,Rajasthan Royals,16,0
+55,2008,"Eden Gardens, Kolkata",Punjab Kings,Delhi Capitals,Delhi Capitals,field,185,9,43,9.25,193,3,52,9.65,Delhi Capitals,0,7
+56,2008,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,172,5,52,8.6,179,8,59,8.95,Mumbai Indians,0,2
+57,2008,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,160,6,43,8.0,167,3,39,8.35,Rajasthan Royals,0,7
+58,2008,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,150,7,47,7.5,156,5,48,7.8,Delhi Capitals,0,5
+59,2008,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,169,5,52,8.45,177,3,46,8.85,Kolkata Knight Riders,0,7
+60,2008,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,191,5,46,9.55,173,6,65,8.65,Delhi Capitals,18,0
+61,2009,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,176,5,42,8.8,182,9,38,9.1,Delhi Capitals,0,1
+62,2009,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,173,4,46,8.65,171,8,50,8.55,Chennai Super Kings,2,0
+63,2009,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,173,5,47,8.65,174,7,40,8.7,Royal Challengers Bangalore,0,3
+64,2009,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Punjab Kings,bat,137,7,45,6.85,112,8,51,5.6,Punjab Kings,25,0
+65,2009,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,168,8,40,8.4,173,7,47,8.65,Sunrisers Hyderabad,0,3
+66,2009,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,171,9,42,8.55,149,10,47,7.45,Chennai Super Kings,22,0
+67,2009,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,166,4,41,8.3,172,3,48,8.6,Chennai Super Kings,0,7
+68,2009,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,175,9,54,8.75,160,7,53,8.0,Chennai Super Kings,15,0
+69,2009,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,140,7,42,7.0,121,8,49,6.05,Chennai Super Kings,19,0
+70,2009,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,174,5,51,8.7,155,10,72,7.75,Royal Challengers Bangalore,19,0
+71,2009,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,175,7,54,8.75,188,5,52,9.4,Punjab Kings,0,5
+72,2009,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,176,4,46,8.8,183,6,51,9.15,Punjab Kings,0,4
+73,2009,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,151,10,46,7.55,156,4,42,7.8,Royal Challengers Bangalore,0,6
+74,2009,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,166,8,61,8.3,173,8,32,8.65,Royal Challengers Bangalore,0,2
+75,2009,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,177,5,38,8.85,181,5,42,9.05,Punjab Kings,0,5
+76,2009,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,184,6,48,9.2,159,10,38,7.95,Delhi Capitals,25,0
+77,2009,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,152,5,52,7.6,164,7,40,8.2,Rajasthan Royals,0,3
+78,2009,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,168,9,48,8.4,152,6,41,7.6,Punjab Kings,16,0
+79,2009,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,203,6,51,10.15,204,5,31,10.2,Sunrisers Hyderabad,0,5
+80,2009,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,168,8,44,8.4,166,7,51,8.3,Kolkata Knight Riders,2,0
+81,2009,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,150,8,47,7.5,130,10,49,6.5,Punjab Kings,20,0
+82,2009,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,180,10,40,9.0,187,5,43,9.35,Chennai Super Kings,0,5
+83,2009,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,156,9,44,7.8,160,4,58,8.0,Sunrisers Hyderabad,0,6
+84,2009,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,172,6,40,8.6,177,8,52,8.85,Kolkata Knight Riders,0,2
+85,2009,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,203,10,54,10.15,184,7,35,9.2,Sunrisers Hyderabad,19,0
+86,2009,"Eden Gardens, Kolkata",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,156,10,55,7.8,157,4,41,7.85,Rajasthan Royals,0,6
+87,2009,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,172,9,52,8.6,179,5,39,8.95,Kolkata Knight Riders,0,5
+88,2009,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,163,9,28,8.15,168,3,38,8.4,Mumbai Indians,0,7
+89,2009,"Wankhede Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,160,10,40,8.0,144,10,57,7.2,Delhi Capitals,16,0
+90,2009,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,139,4,45,6.95,146,5,46,7.3,Punjab Kings,0,5
+91,2009,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,190,9,39,9.5,201,6,54,10.05,Kolkata Knight Riders,0,4
+92,2009,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,165,4,42,8.25,152,10,49,7.6,Rajasthan Royals,13,0
+93,2009,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,168,8,44,8.4,181,6,46,9.05,Royal Challengers Bangalore,0,4
+94,2009,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,158,6,48,7.9,170,6,50,8.5,Chennai Super Kings,0,4
+95,2009,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,193,8,40,9.65,200,3,60,10.0,Rajasthan Royals,0,7
+96,2009,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,129,7,47,6.45,119,10,50,5.95,Mumbai Indians,10,0
+97,2009,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,170,8,44,8.5,174,7,44,8.7,Mumbai Indians,0,3
+98,2009,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,156,10,44,7.8,170,3,51,8.5,Chennai Super Kings,0,7
+99,2009,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,171,7,43,8.55,177,5,52,8.85,Royal Challengers Bangalore,0,5
+100,2009,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,170,5,52,8.5,156,6,50,7.8,Chennai Super Kings,14,0
+101,2009,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,150,9,44,7.5,129,7,51,6.45,Royal Challengers Bangalore,21,0
+102,2009,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,175,10,47,8.75,171,10,46,8.55,Kolkata Knight Riders,4,0
+103,2009,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,187,7,44,9.35,178,8,49,8.9,Kolkata Knight Riders,9,0
+104,2009,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,161,9,46,8.05,136,9,53,6.8,Chennai Super Kings,25,0
+105,2009,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,179,9,52,8.95,181,9,55,9.05,Sunrisers Hyderabad,0,1
+106,2009,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,165,4,52,8.25,166,5,43,8.3,Mumbai Indians,0,5
+107,2009,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,170,8,47,8.5,164,7,46,8.2,Royal Challengers Bangalore,6,0
+108,2009,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,175,8,43,8.75,183,8,60,9.15,Rajasthan Royals,0,2
+109,2009,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,146,6,40,7.3,140,6,54,7.0,Sunrisers Hyderabad,6,0
+110,2009,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,179,7,51,8.95,172,9,50,8.6,Kolkata Knight Riders,7,0
+111,2009,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,164,9,42,8.2,178,8,46,8.9,Rajasthan Royals,0,2
+112,2009,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,152,10,53,7.6,142,7,44,7.1,Chennai Super Kings,10,0
+113,2009,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,150,9,46,7.5,161,8,48,8.05,Delhi Capitals,0,2
+114,2009,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,154,4,43,7.7,143,9,47,7.15,Rajasthan Royals,11,0
+115,2009,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Delhi Capitals,Delhi Capitals,field,169,10,44,8.45,184,9,42,9.2,Delhi Capitals,0,1
+116,2009,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,169,7,39,8.45,164,7,36,8.2,Kolkata Knight Riders,5,0
+117,2009,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,152,6,46,7.6,160,5,48,8.0,Kolkata Knight Riders,0,5
+118,2009,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,191,9,53,9.55,192,7,44,9.6,Kolkata Knight Riders,0,3
+119,2009,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,164,9,41,8.2,171,3,45,8.55,Sunrisers Hyderabad,0,7
+120,2009,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,159,4,49,7.95,168,4,40,8.4,Rajasthan Royals,0,6
+121,2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,174,4,57,8.7,167,9,45,8.35,Kolkata Knight Riders,7,0
+122,2010,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,172,4,52,8.6,176,3,43,8.8,Kolkata Knight Riders,0,7
+123,2010,"Eden Gardens, Kolkata",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,169,10,48,8.45,172,9,46,8.6,Rajasthan Royals,0,1
+124,2010,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,151,6,48,7.55,131,6,49,6.55,Delhi Capitals,20,0
+125,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,191,4,53,9.55,190,7,61,9.5,Punjab Kings,1,0
+126,2010,"Eden Gardens, Kolkata",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,151,5,53,7.55,154,8,47,7.7,Royal Challengers Bangalore,0,2
+127,2010,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Punjab Kings,Mumbai Indians,field,204,7,43,10.2,187,10,40,9.35,Mumbai Indians,17,0
+128,2010,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,154,7,35,7.7,153,6,42,7.65,Kolkata Knight Riders,1,0
+129,2010,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,151,9,48,7.55,148,6,48,7.4,Chennai Super Kings,3,0
+130,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,198,8,53,9.9,180,8,41,9.0,Sunrisers Hyderabad,18,0
+131,2010,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,bat,148,10,50,7.4,127,10,36,6.35,Mumbai Indians,21,0
+132,2010,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,197,10,55,9.85,204,8,42,10.2,Chennai Super Kings,0,2
+133,2010,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,134,5,56,6.7,118,6,45,5.9,Kolkata Knight Riders,16,0
+134,2010,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,187,9,38,9.35,182,10,41,9.1,Kolkata Knight Riders,5,0
+135,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,165,6,48,8.25,140,9,42,7.0,Rajasthan Royals,25,0
+136,2010,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,176,5,41,8.8,168,6,45,8.4,Rajasthan Royals,8,0
+137,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,167,10,51,8.35,176,9,50,8.8,Mumbai Indians,0,1
+138,2010,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,144,9,38,7.2,133,8,54,6.65,Rajasthan Royals,11,0
+139,2010,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,170,5,43,8.5,169,6,56,8.45,Rajasthan Royals,1,0
+140,2010,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,167,6,55,8.35,173,9,46,8.65,Chennai Super Kings,0,1
+141,2010,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,202,6,58,10.1,209,6,44,10.45,Rajasthan Royals,0,4
+142,2010,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,182,7,51,9.1,193,8,55,9.65,Delhi Capitals,0,2
+143,2010,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,147,8,52,7.35,151,5,53,7.55,Punjab Kings,0,5
+144,2010,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,133,4,40,6.65,145,6,31,7.25,Mumbai Indians,0,4
+145,2010,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,160,4,52,8.0,172,3,56,8.6,Kolkata Knight Riders,0,7
+146,2010,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,166,8,57,8.3,177,6,36,8.85,Rajasthan Royals,0,4
+147,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,134,10,47,6.7,119,8,48,5.95,Punjab Kings,15,0
+148,2010,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,164,8,35,8.2,178,5,45,8.9,Delhi Capitals,0,5
+149,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,141,8,52,7.05,156,9,48,7.8,Kolkata Knight Riders,0,1
+150,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,148,6,44,7.4,158,4,38,7.9,Royal Challengers Bangalore,0,6
+151,2010,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,163,10,53,8.15,152,7,39,7.6,Kolkata Knight Riders,11,0
+152,2010,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,174,8,44,8.7,183,3,40,9.15,Rajasthan Royals,0,7
+153,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,field,163,10,41,8.15,174,9,42,8.7,Delhi Capitals,0,1
+154,2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,143,10,59,7.15,147,5,46,7.35,Punjab Kings,0,5
+155,2010,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,152,10,49,7.6,141,6,45,7.05,Chennai Super Kings,11,0
+156,2010,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,161,8,51,8.05,164,5,51,8.2,Rajasthan Royals,0,5
+157,2010,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,155,10,44,7.75,144,6,44,7.2,Sunrisers Hyderabad,11,0
+158,2010,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,123,6,38,6.15,134,4,55,6.7,Rajasthan Royals,0,6
+159,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,194,8,46,9.7,207,5,50,10.35,Royal Challengers Bangalore,0,5
+160,2010,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,170,4,66,8.5,173,4,53,8.65,Sunrisers Hyderabad,0,6
+161,2010,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,162,5,42,8.1,176,9,34,8.8,Mumbai Indians,0,1
+162,2010,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,168,8,43,8.4,171,4,36,8.55,Punjab Kings,0,6
+163,2010,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,153,9,41,7.65,138,10,57,6.9,Royal Challengers Bangalore,15,0
+164,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,field,180,10,47,9.0,173,8,56,8.65,Punjab Kings,7,0
+165,2010,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,166,10,42,8.3,176,4,56,8.8,Delhi Capitals,0,6
+166,2010,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,174,6,41,8.7,177,5,44,8.85,Rajasthan Royals,0,5
+167,2010,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,149,10,39,7.45,155,3,52,7.75,Punjab Kings,0,7
+168,2010,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,199,7,39,9.95,187,7,49,9.35,Mumbai Indians,12,0
+169,2010,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,153,5,45,7.65,168,9,41,8.4,Royal Challengers Bangalore,0,1
+170,2010,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,149,8,48,7.45,151,3,40,7.55,Sunrisers Hyderabad,0,7
+171,2010,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,169,10,47,8.45,174,3,44,8.7,Kolkata Knight Riders,0,7
+172,2010,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,148,4,44,7.4,132,10,51,6.6,Rajasthan Royals,16,0
+173,2010,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,174,7,42,8.7,180,4,46,9.0,Sunrisers Hyderabad,0,6
+174,2010,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,178,8,37,8.9,191,7,49,9.55,Kolkata Knight Riders,0,3
+175,2010,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,153,6,51,7.65,141,6,40,7.05,Rajasthan Royals,12,0
+176,2010,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,132,4,38,6.6,138,9,46,6.9,Kolkata Knight Riders,0,1
+177,2010,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,169,10,42,8.45,181,9,50,9.05,Mumbai Indians,0,1
+178,2010,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,135,4,47,6.75,140,7,37,7.0,Rajasthan Royals,0,3
+179,2010,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,153,6,48,7.65,166,3,39,8.3,Chennai Super Kings,0,7
+180,2010,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,158,9,54,7.9,165,5,41,8.25,Royal Challengers Bangalore,0,5
+181,2011,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,180,6,41,9.0,186,8,49,9.3,Royal Challengers Bangalore,0,2
+182,2011,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,190,9,33,9.5,198,3,40,9.9,Sunrisers Hyderabad,0,7
+183,2011,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,175,9,46,8.75,163,10,48,8.15,Delhi Capitals,12,0
+184,2011,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,154,5,48,7.7,167,8,44,8.35,Royal Challengers Bangalore,0,2
+185,2011,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,186,9,49,9.3,192,5,48,9.6,Sunrisers Hyderabad,0,5
+186,2011,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,157,7,45,7.85,162,4,42,8.1,Chennai Super Kings,0,6
+187,2011,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,172,6,45,8.6,149,9,48,7.45,Kolkata Knight Riders,23,0
+188,2011,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,202,4,53,10.1,204,6,43,10.2,Punjab Kings,0,4
+189,2011,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,186,9,45,9.3,195,5,31,9.75,Delhi Capitals,0,5
+190,2011,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Chennai Super Kings,Punjab Kings,field,146,8,36,7.3,150,9,43,7.5,Chennai Super Kings,0,1
+191,2011,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,165,7,58,8.25,147,7,48,7.35,Sunrisers Hyderabad,18,0
+192,2011,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,161,10,52,8.05,171,3,30,8.55,Royal Challengers Bangalore,0,7
+193,2011,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,169,5,52,8.45,144,10,35,7.2,Sunrisers Hyderabad,25,0
+194,2011,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,185,8,50,9.25,188,4,43,9.4,Chennai Super Kings,0,6
+195,2011,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,176,6,61,8.8,185,5,47,9.25,Mumbai Indians,0,5
+196,2011,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,169,8,45,8.45,164,7,40,8.2,Sunrisers Hyderabad,5,0
+197,2011,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,179,9,42,8.95,170,7,46,8.5,Delhi Capitals,9,0
+198,2011,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,field,156,7,50,7.8,169,8,48,8.45,Punjab Kings,0,2
+199,2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,183,7,44,9.15,191,4,44,9.55,Sunrisers Hyderabad,0,6
+200,2011,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Punjab Kings,field,147,7,45,7.35,153,7,48,7.65,Punjab Kings,0,3
+201,2011,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,178,7,42,8.9,180,3,52,9.0,Sunrisers Hyderabad,0,7
+202,2011,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Punjab Kings,field,189,8,50,9.45,182,7,59,9.1,Punjab Kings,7,0
+203,2011,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,field,151,4,40,7.55,158,7,33,7.9,Punjab Kings,0,3
+204,2011,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,191,4,51,9.55,201,9,45,10.05,Kolkata Knight Riders,0,1
+205,2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,170,6,41,8.5,145,9,63,7.25,Mumbai Indians,25,0
+206,2011,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,167,8,48,8.35,174,7,51,8.7,Royal Challengers Bangalore,0,3
+207,2011,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,173,4,49,8.65,186,5,40,9.3,Chennai Super Kings,0,5
+208,2011,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,173,4,59,8.65,185,5,55,9.25,Chennai Super Kings,0,5
+209,2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,field,193,8,44,9.65,200,7,39,10.0,Punjab Kings,0,3
+210,2011,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Mumbai Indians,Mumbai Indians,field,162,7,48,8.1,150,8,53,7.5,Punjab Kings,12,0
+211,2011,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,134,6,57,6.7,109,10,44,5.45,Kolkata Knight Riders,25,0
+212,2011,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,157,8,41,7.85,137,9,34,6.85,Rajasthan Royals,20,0
+213,2011,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,179,4,48,8.95,186,4,36,9.3,Chennai Super Kings,0,6
+214,2011,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,141,9,45,7.05,145,7,57,7.25,Delhi Capitals,0,3
+215,2011,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,160,5,38,8.0,169,5,44,8.45,Mumbai Indians,0,5
+216,2011,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,160,5,31,8.0,165,4,45,8.25,Mumbai Indians,0,6
+217,2011,"Arun Jaitley Stadium, Delhi",Punjab Kings,Chennai Super Kings,Punjab Kings,field,160,6,52,8.0,169,9,58,8.45,Chennai Super Kings,0,1
+218,2011,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,185,10,46,9.25,198,9,38,9.9,Sunrisers Hyderabad,0,1
+219,2011,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,211,7,48,10.55,187,9,46,9.35,Sunrisers Hyderabad,24,0
+220,2011,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,164,4,49,8.2,145,7,44,7.25,Rajasthan Royals,19,0
+221,2011,"Eden Gardens, Kolkata",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,154,4,44,7.7,166,6,45,8.3,Royal Challengers Bangalore,0,4
+222,2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,155,9,43,7.75,139,9,46,6.95,Kolkata Knight Riders,16,0
+223,2011,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,160,10,57,8.0,170,4,27,8.5,Chennai Super Kings,0,6
+224,2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,184,10,55,9.2,199,8,31,9.95,Kolkata Knight Riders,0,2
+225,2011,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,158,6,45,7.9,169,7,36,8.45,Royal Challengers Bangalore,0,3
+226,2011,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,150,6,41,7.5,158,8,58,7.9,Kolkata Knight Riders,0,2
+227,2011,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Delhi Capitals,field,181,8,55,9.05,174,7,51,8.7,Punjab Kings,7,0
+228,2011,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,144,7,44,7.2,138,7,49,6.9,Chennai Super Kings,6,0
+229,2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,143,5,52,7.15,148,5,44,7.4,Sunrisers Hyderabad,0,5
+230,2011,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,158,4,52,7.9,143,8,49,7.15,Punjab Kings,15,0
+231,2011,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,158,6,54,7.9,150,7,38,7.5,Sunrisers Hyderabad,8,0
+232,2011,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,176,9,51,8.8,184,9,43,9.2,Kolkata Knight Riders,0,1
+233,2011,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,170,8,40,8.5,167,10,52,8.35,Rajasthan Royals,3,0
+234,2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,161,6,44,8.05,146,6,53,7.3,Kolkata Knight Riders,15,0
+235,2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,152,7,39,7.6,159,6,35,7.95,Delhi Capitals,0,4
+236,2011,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,175,7,40,8.75,176,8,58,8.8,Punjab Kings,0,2
+237,2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Punjab Kings,field,127,9,58,6.35,128,3,47,6.4,Punjab Kings,0,7
+238,2011,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,163,10,44,8.15,139,9,48,6.95,Mumbai Indians,24,0
+239,2011,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,164,9,54,8.2,146,7,46,7.3,Delhi Capitals,18,0
+240,2011,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,167,9,45,8.35,166,6,45,8.3,Delhi Capitals,1,0
+241,2012,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,170,9,37,8.5,168,9,36,8.4,Punjab Kings,2,0
+242,2012,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,178,7,49,8.9,155,6,44,7.75,Delhi Capitals,23,0
+243,2012,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,165,8,50,8.25,179,9,42,8.95,Royal Challengers Bangalore,0,1
+244,2012,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,150,5,49,7.5,153,8,39,7.65,Kolkata Knight Riders,0,2
+245,2012,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Punjab Kings,bat,172,9,37,8.6,154,9,53,7.7,Punjab Kings,18,0
+246,2012,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,173,7,49,8.65,180,4,52,9.0,Sunrisers Hyderabad,0,6
+247,2012,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,194,4,54,9.7,201,7,33,10.05,Kolkata Knight Riders,0,3
+248,2012,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,141,9,44,7.05,149,9,46,7.45,Punjab Kings,0,1
+249,2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,174,9,43,8.7,172,6,47,8.6,Royal Challengers Bangalore,2,0
+250,2012,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,151,6,44,7.55,150,7,36,7.5,Punjab Kings,1,0
+251,2012,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,148,9,39,7.4,141,9,39,7.05,Punjab Kings,7,0
+252,2012,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,183,8,42,9.15,173,8,64,8.65,Punjab Kings,10,0
+253,2012,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,173,10,49,8.65,166,8,39,8.3,Royal Challengers Bangalore,7,0
+254,2012,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,177,4,44,8.85,192,7,46,9.6,Punjab Kings,0,3
+255,2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,211,7,47,10.55,215,6,54,10.75,Sunrisers Hyderabad,0,4
+256,2012,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,152,5,47,7.6,140,7,58,7.0,Royal Challengers Bangalore,12,0
+257,2012,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,153,10,58,7.65,131,6,50,6.55,Sunrisers Hyderabad,22,0
+258,2012,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,154,9,51,7.7,158,7,52,7.9,Punjab Kings,0,3
+259,2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,176,4,38,8.8,185,6,40,9.25,Sunrisers Hyderabad,0,4
+260,2012,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,160,8,47,8.0,138,9,50,6.9,Delhi Capitals,22,0
+261,2012,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,168,5,39,8.4,159,8,48,7.95,Sunrisers Hyderabad,9,0
+262,2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,175,7,51,8.75,187,4,53,9.35,Chennai Super Kings,0,6
+263,2012,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,180,7,50,9.0,189,6,45,9.45,Royal Challengers Bangalore,0,4
+264,2012,"Wankhede Stadium, Mumbai",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,135,7,50,6.75,114,8,47,5.7,Delhi Capitals,21,0
+265,2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,169,6,40,8.45,171,8,38,8.55,Rajasthan Royals,0,2
+266,2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,183,5,47,9.15,196,9,50,9.8,Mumbai Indians,0,1
+267,2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,165,9,48,8.25,154,9,52,7.7,Chennai Super Kings,11,0
+268,2012,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,155,4,48,7.75,169,3,42,8.45,Chennai Super Kings,0,7
+269,2012,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,157,10,46,7.85,141,7,47,7.05,Royal Challengers Bangalore,16,0
+270,2012,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,156,4,55,7.8,146,7,39,7.3,Royal Challengers Bangalore,10,0
+271,2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,161,9,45,8.05,167,3,56,8.35,Delhi Capitals,0,7
+272,2012,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,168,4,54,8.4,171,6,35,8.55,Delhi Capitals,0,4
+273,2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,169,6,53,8.45,179,7,46,8.95,Rajasthan Royals,0,3
+274,2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,184,7,44,9.2,160,10,55,8.0,Royal Challengers Bangalore,24,0
+275,2012,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,206,5,45,10.3,211,6,42,10.55,Rajasthan Royals,0,4
+276,2012,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,191,6,57,9.55,193,5,42,9.65,Delhi Capitals,0,5
+277,2012,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,157,4,46,7.85,158,6,36,7.9,Kolkata Knight Riders,0,4
+278,2012,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,148,7,41,7.4,127,10,40,6.35,Royal Challengers Bangalore,21,0
+279,2012,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,164,6,49,8.2,171,5,56,8.55,Mumbai Indians,0,5
+280,2012,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,147,7,53,7.35,160,6,44,8.0,Royal Challengers Bangalore,0,4
+281,2012,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,164,9,52,8.2,176,4,38,8.8,Delhi Capitals,0,6
+282,2012,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,171,9,48,8.55,182,5,49,9.1,Chennai Super Kings,0,5
+283,2012,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,170,4,62,8.5,180,6,41,9.0,Sunrisers Hyderabad,0,4
+284,2012,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,155,9,44,7.75,137,10,42,6.85,Chennai Super Kings,18,0
+285,2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,153,9,55,7.65,134,9,55,6.7,Kolkata Knight Riders,19,0
+286,2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,154,6,43,7.7,166,7,49,8.3,Chennai Super Kings,0,3
+287,2012,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,155,6,51,7.75,139,6,47,6.95,Punjab Kings,16,0
+288,2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,137,6,57,6.85,150,4,58,7.5,Punjab Kings,0,6
+289,2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,153,6,45,7.65,154,9,48,7.7,Sunrisers Hyderabad,0,1
+290,2012,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,171,9,51,8.55,174,7,60,8.7,Delhi Capitals,0,3
+291,2012,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,161,9,43,8.05,172,8,36,8.6,Mumbai Indians,0,2
+292,2012,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,151,8,47,7.55,152,8,58,7.6,Punjab Kings,0,2
+293,2012,"Arun Jaitley Stadium, Delhi",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,155,10,49,7.75,149,8,45,7.45,Punjab Kings,6,0
+294,2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,186,8,63,9.3,175,10,42,8.75,Royal Challengers Bangalore,11,0
+295,2012,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,156,6,54,7.8,136,7,50,6.8,Chennai Super Kings,20,0
+296,2012,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,198,4,51,9.9,200,4,43,10.0,Mumbai Indians,0,6
+297,2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,175,8,54,8.75,182,6,51,9.1,Mumbai Indians,0,4
+298,2012,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,174,6,54,8.7,180,9,54,9.0,Punjab Kings,0,1
+299,2012,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,189,5,51,9.45,196,7,44,9.8,Rajasthan Royals,0,3
+300,2012,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,field,167,5,55,8.35,168,9,40,8.4,Punjab Kings,0,1
+301,2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,171,6,45,8.55,159,10,46,7.95,Sunrisers Hyderabad,12,0
+302,2013,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,188,4,49,9.4,167,7,46,8.35,Kolkata Knight Riders,21,0
+303,2013,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,field,140,10,52,7.0,125,6,50,6.25,Chennai Super Kings,15,0
+304,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,203,8,46,10.15,207,9,47,10.35,Royal Challengers Bangalore,0,1
+305,2013,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Punjab Kings,field,169,8,57,8.45,175,8,45,8.75,Punjab Kings,0,2
+306,2013,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,170,10,51,8.5,168,8,47,8.4,Chennai Super Kings,2,0
+307,2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,156,10,49,7.8,170,8,53,8.5,Delhi Capitals,0,2
+308,2013,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,146,7,48,7.3,157,9,41,7.85,Rajasthan Royals,0,1
+309,2013,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,186,7,38,9.3,187,9,42,9.35,Rajasthan Royals,0,1
+310,2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,171,10,57,8.55,175,6,45,8.75,Delhi Capitals,0,4
+311,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,155,8,59,7.75,165,9,35,8.25,Sunrisers Hyderabad,0,1
+312,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,125,4,50,6.25,110,6,42,5.5,Sunrisers Hyderabad,15,0
+313,2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,146,7,52,7.3,158,4,47,7.9,Punjab Kings,0,6
+314,2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,154,4,40,7.7,169,8,52,8.45,Royal Challengers Bangalore,0,2
+315,2013,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,176,7,47,8.8,153,6,58,7.65,Mumbai Indians,23,0
+316,2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,145,8,38,7.25,144,6,41,7.2,Kolkata Knight Riders,1,0
+317,2013,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,164,4,49,8.2,166,8,44,8.3,Punjab Kings,0,2
+318,2013,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,171,7,40,8.55,146,7,56,7.3,Royal Challengers Bangalore,25,0
+319,2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,163,6,54,8.15,142,7,48,7.1,Mumbai Indians,21,0
+320,2013,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,173,5,51,8.65,154,9,49,7.7,Punjab Kings,19,0
+321,2013,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,176,9,55,8.8,185,7,47,9.25,Rajasthan Royals,0,3
+322,2013,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,177,8,47,8.85,170,9,56,8.5,Chennai Super Kings,7,0
+323,2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,152,4,58,7.6,163,7,45,8.15,Delhi Capitals,0,3
+324,2013,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,139,7,48,6.95,120,9,41,6.0,Royal Challengers Bangalore,19,0
+325,2013,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,180,8,44,9.0,185,4,42,9.25,Chennai Super Kings,0,6
+326,2013,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,130,7,45,6.5,127,10,29,6.35,Kolkata Knight Riders,3,0
+327,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,136,10,52,6.8,142,6,51,7.1,Sunrisers Hyderabad,0,4
+328,2013,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,172,5,42,8.6,179,3,45,8.95,Mumbai Indians,0,7
+329,2013,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,164,4,41,8.2,141,6,56,7.05,Sunrisers Hyderabad,23,0
+330,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,180,6,46,9.0,193,9,46,9.65,Rajasthan Royals,0,1
+331,2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,168,6,35,8.4,173,8,44,8.65,Delhi Capitals,0,2
+332,2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,152,7,41,7.6,146,8,44,7.3,Royal Challengers Bangalore,6,0
+333,2013,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,197,9,51,9.85,198,9,42,9.9,Sunrisers Hyderabad,0,1
+334,2013,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,175,5,56,8.75,189,3,52,9.45,Royal Challengers Bangalore,0,7
+335,2013,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,166,6,44,8.3,147,8,50,7.35,Punjab Kings,19,0
+336,2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,172,7,53,8.6,180,9,50,9.0,Chennai Super Kings,0,1
+337,2013,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,183,4,44,9.15,188,7,55,9.4,Punjab Kings,0,3
+338,2013,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,168,10,60,8.4,144,10,41,7.2,Chennai Super Kings,24,0
+339,2013,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,196,8,49,9.8,210,8,41,10.5,Royal Challengers Bangalore,0,2
+340,2013,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,156,4,46,7.8,160,6,48,8.0,Mumbai Indians,0,4
+341,2013,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,174,4,44,8.7,157,9,45,7.85,Sunrisers Hyderabad,17,0
+342,2013,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,203,9,58,10.15,200,10,49,10.0,Delhi Capitals,3,0
+343,2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,165,10,48,8.25,178,6,50,8.9,Rajasthan Royals,0,4
+344,2013,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,146,5,46,7.3,159,7,34,7.95,Mumbai Indians,0,3
+345,2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,172,6,51,8.6,181,5,42,9.05,Sunrisers Hyderabad,0,5
+346,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,193,4,40,9.65,204,5,35,10.2,Sunrisers Hyderabad,0,5
+347,2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,169,6,54,8.45,170,8,57,8.5,Royal Challengers Bangalore,0,2
+348,2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,156,8,54,7.8,148,6,45,7.4,Chennai Super Kings,8,0
+349,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,161,10,53,8.05,153,7,50,7.65,Sunrisers Hyderabad,8,0
+350,2013,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,136,10,56,6.8,138,4,55,6.9,Punjab Kings,0,6
+351,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,153,4,50,7.65,151,7,49,7.55,Sunrisers Hyderabad,2,0
+352,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,169,9,44,8.45,175,4,41,8.75,Sunrisers Hyderabad,0,6
+353,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,164,8,55,8.2,156,8,49,7.8,Mumbai Indians,8,0
+354,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,158,7,52,7.9,162,8,26,8.1,Rajasthan Royals,0,2
+355,2013,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,185,8,37,9.25,173,10,43,8.65,Rajasthan Royals,12,0
+356,2013,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,144,8,40,7.2,159,9,54,7.95,Rajasthan Royals,0,1
+357,2013,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,156,5,50,7.8,167,4,45,8.35,Kolkata Knight Riders,0,6
+358,2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,173,10,48,8.65,167,7,37,8.35,Chennai Super Kings,6,0
+359,2013,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,182,9,45,9.1,163,10,35,8.15,Rajasthan Royals,19,0
+360,2013,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,157,7,57,7.85,158,4,51,7.9,Chennai Super Kings,0,6
+361,2014,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,158,5,45,7.9,153,6,43,7.65,Chennai Super Kings,5,0
+362,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,202,6,50,10.1,205,4,49,10.25,Kolkata Knight Riders,0,6
+363,2014,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,183,9,49,9.15,160,10,44,8.0,Sunrisers Hyderabad,23,0
+364,2014,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,161,5,47,8.05,162,8,45,8.1,Mumbai Indians,0,2
+365,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,178,9,48,8.9,193,6,51,9.65,Royal Challengers Bangalore,0,4
+366,2014,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,163,5,48,8.15,160,8,32,8.0,Delhi Capitals,3,0
+367,2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,181,6,50,9.05,183,8,52,9.15,Kolkata Knight Riders,0,2
+368,2014,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,112,7,60,5.6,119,5,45,5.95,Royal Challengers Bangalore,0,5
+369,2014,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,184,7,41,9.2,198,3,50,9.9,Kolkata Knight Riders,0,7
+370,2014,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,146,6,44,7.3,153,4,59,7.65,Kolkata Knight Riders,0,6
+371,2014,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,161,7,49,8.05,155,10,52,7.75,Mumbai Indians,6,0
+372,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,173,5,48,8.65,182,8,48,9.1,Mumbai Indians,0,2
+373,2014,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,208,4,47,10.4,217,9,47,10.85,Chennai Super Kings,0,1
+374,2014,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,183,4,54,9.15,194,8,54,9.7,Mumbai Indians,0,2
+375,2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,176,9,41,8.8,178,6,57,8.9,Mumbai Indians,0,4
+376,2014,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,144,4,49,7.2,131,7,40,6.55,Mumbai Indians,13,0
+377,2014,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,163,6,49,8.15,168,4,48,8.4,Punjab Kings,0,6
+378,2014,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,172,9,57,8.6,181,6,49,9.05,Royal Challengers Bangalore,0,4
+379,2014,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,160,8,53,8.0,144,8,54,7.2,Punjab Kings,16,0
+380,2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,142,10,51,7.1,145,4,50,7.25,Punjab Kings,0,6
+381,2014,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Punjab Kings,field,159,5,56,7.95,138,7,44,6.9,Punjab Kings,21,0
+382,2014,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,167,8,46,8.35,172,7,46,8.6,Delhi Capitals,0,3
+383,2014,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,145,7,39,7.25,155,7,57,7.75,Sunrisers Hyderabad,0,3
+384,2014,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,149,6,42,7.45,157,7,30,7.85,Kolkata Knight Riders,0,3
+385,2014,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,153,8,40,7.65,130,9,57,6.5,Royal Challengers Bangalore,23,0
+386,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,183,9,43,9.15,188,5,61,9.4,Punjab Kings,0,5
+387,2014,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,182,10,46,9.1,178,7,28,8.9,Kolkata Knight Riders,4,0
+388,2014,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,206,8,39,10.3,199,9,34,9.95,Delhi Capitals,7,0
+389,2014,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,183,10,62,9.15,196,4,55,9.8,Sunrisers Hyderabad,0,6
+390,2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,175,5,51,8.75,168,6,51,8.4,Mumbai Indians,7,0
+391,2014,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,178,6,49,8.9,186,7,46,9.3,Kolkata Knight Riders,0,3
+392,2014,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,163,6,43,8.15,171,4,44,8.55,Chennai Super Kings,0,6
+393,2014,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,134,9,47,6.7,131,8,39,6.55,Royal Challengers Bangalore,3,0
+394,2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,145,9,49,7.25,149,5,55,7.45,Punjab Kings,0,5
+395,2014,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,181,5,38,9.05,161,6,39,8.05,Sunrisers Hyderabad,20,0
+396,2014,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,field,181,7,42,9.05,166,8,44,8.3,Punjab Kings,15,0
+397,2014,"Arun Jaitley Stadium, Delhi",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,174,4,42,8.7,185,9,46,9.25,Royal Challengers Bangalore,0,1
+398,2014,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,140,4,44,7.0,145,8,48,7.25,Rajasthan Royals,0,2
+399,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,136,5,50,6.8,140,3,45,7.0,Sunrisers Hyderabad,0,7
+400,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,174,9,49,8.7,179,5,55,8.95,Chennai Super Kings,0,5
+401,2014,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,167,6,45,8.35,159,10,46,7.95,Sunrisers Hyderabad,8,0
+402,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,174,10,48,8.7,156,7,46,7.8,Royal Challengers Bangalore,18,0
+403,2014,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,152,9,44,7.6,131,6,36,6.55,Rajasthan Royals,21,0
+404,2014,"Eden Gardens, Kolkata",Punjab Kings,Delhi Capitals,Delhi Capitals,field,196,10,40,9.8,184,8,41,9.2,Punjab Kings,12,0
+405,2014,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,152,7,53,7.6,135,6,43,6.75,Rajasthan Royals,17,0
+406,2014,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,187,5,43,9.35,176,9,47,8.8,Sunrisers Hyderabad,11,0
+407,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,149,7,60,7.45,152,5,37,7.6,Mumbai Indians,0,5
+408,2014,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,170,8,51,8.5,154,6,48,7.7,Kolkata Knight Riders,16,0
+409,2014,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,161,7,47,8.05,148,6,46,7.4,Delhi Capitals,13,0
+410,2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,162,6,53,8.1,145,7,61,7.25,Kolkata Knight Riders,17,0
+411,2014,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,154,9,39,7.7,144,7,45,7.2,Kolkata Knight Riders,10,0
+412,2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,211,6,43,10.55,196,10,57,9.8,Mumbai Indians,15,0
+413,2014,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,field,195,10,44,9.75,210,9,49,10.5,Punjab Kings,0,1
+414,2014,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,194,9,45,9.7,203,4,44,10.15,Kolkata Knight Riders,0,6
+415,2014,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,154,8,41,7.7,132,6,41,6.6,Mumbai Indians,22,0
+416,2014,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,142,4,48,7.1,150,8,40,7.5,Royal Challengers Bangalore,0,2
+417,2014,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,169,9,38,8.45,179,7,48,8.95,Mumbai Indians,0,3
+418,2014,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Punjab Kings,Delhi Capitals,field,180,4,36,9.0,164,7,48,8.2,Delhi Capitals,16,0
+419,2014,"Arun Jaitley Stadium, Delhi",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,187,9,40,9.35,190,3,57,9.5,Sunrisers Hyderabad,0,7
+420,2014,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,172,4,43,8.6,168,10,45,8.4,Royal Challengers Bangalore,4,0
+421,2015,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,175,4,48,8.75,173,8,49,8.65,Delhi Capitals,2,0
+422,2015,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,148,10,49,7.4,146,6,36,7.3,Royal Challengers Bangalore,2,0
+423,2015,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,162,8,42,8.1,174,3,40,8.7,Royal Challengers Bangalore,0,7
+424,2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,187,7,54,9.35,178,9,50,8.9,Royal Challengers Bangalore,9,0
+425,2015,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,145,5,46,7.25,143,7,54,7.15,Rajasthan Royals,2,0
+426,2015,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,167,8,61,8.35,173,7,48,8.65,Delhi Capitals,0,3
+427,2015,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,168,7,46,8.4,170,5,46,8.5,Kolkata Knight Riders,0,5
+428,2015,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,162,7,52,8.1,154,9,52,7.7,Royal Challengers Bangalore,8,0
+429,2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,150,9,40,7.5,133,9,33,6.65,Royal Challengers Bangalore,17,0
+430,2015,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,174,5,41,8.7,179,3,30,8.95,Kolkata Knight Riders,0,7
+431,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,171,7,62,8.55,181,6,45,9.05,Sunrisers Hyderabad,0,4
+432,2015,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,180,7,48,9.0,179,6,45,8.95,Chennai Super Kings,1,0
+433,2015,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,181,10,46,9.05,161,8,47,8.05,Kolkata Knight Riders,20,0
+434,2015,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,170,10,43,8.5,178,5,52,8.9,Royal Challengers Bangalore,0,5
+435,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,161,4,43,8.05,153,6,49,7.65,Rajasthan Royals,8,0
+436,2015,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,148,4,48,7.4,132,7,45,6.6,Royal Challengers Bangalore,16,0
+437,2015,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,184,4,50,9.2,171,7,45,8.55,Kolkata Knight Riders,13,0
+438,2015,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,179,10,56,8.95,194,8,49,9.7,Kolkata Knight Riders,0,2
+439,2015,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,165,4,40,8.25,166,7,38,8.3,Kolkata Knight Riders,0,3
+440,2015,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,159,9,44,7.95,155,9,44,7.75,Kolkata Knight Riders,4,0
+441,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,166,7,51,8.3,156,9,45,7.8,Royal Challengers Bangalore,10,0
+442,2015,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,173,9,48,8.65,155,7,32,7.75,Mumbai Indians,18,0
+443,2015,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,148,9,47,7.4,142,10,37,7.1,Delhi Capitals,6,0
+444,2015,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,175,9,57,8.75,157,8,54,7.85,Royal Challengers Bangalore,18,0
+445,2015,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,161,7,56,8.05,172,3,47,8.6,Rajasthan Royals,0,7
+446,2015,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,158,10,44,7.9,171,5,43,8.55,Mumbai Indians,0,5
+447,2015,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,158,8,49,7.9,134,10,47,6.7,Delhi Capitals,24,0
+448,2015,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,165,7,50,8.25,178,8,54,8.9,Royal Challengers Bangalore,0,2
+449,2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,182,8,39,9.1,167,7,28,8.35,Royal Challengers Bangalore,15,0
+450,2015,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,181,7,39,9.05,192,3,44,9.6,Kolkata Knight Riders,0,7
+451,2015,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,143,6,37,7.15,146,4,49,7.3,Chennai Super Kings,0,6
+452,2015,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,178,5,44,8.9,158,6,27,7.9,Sunrisers Hyderabad,20,0
+453,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,155,5,50,7.75,168,7,35,8.4,Delhi Capitals,0,3
+454,2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,168,5,47,8.4,157,8,50,7.85,Mumbai Indians,11,0
+455,2015,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,167,9,42,8.35,171,8,54,8.55,Chennai Super Kings,0,2
+456,2015,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,162,6,47,8.1,167,3,39,8.35,Punjab Kings,0,7
+457,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,157,9,42,7.85,166,3,44,8.3,Sunrisers Hyderabad,0,7
+458,2015,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,195,9,39,9.75,188,9,34,9.4,Chennai Super Kings,7,0
+459,2015,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,191,4,46,9.55,197,3,41,9.85,Rajasthan Royals,0,7
+460,2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,183,8,44,9.15,174,9,58,8.7,Chennai Super Kings,9,0
+461,2015,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,177,7,45,8.85,159,6,61,7.95,Kolkata Knight Riders,18,0
+462,2015,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,154,8,52,7.7,167,8,48,8.35,Kolkata Knight Riders,0,2
+463,2015,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,188,7,57,9.4,187,9,46,9.35,Sunrisers Hyderabad,1,0
+464,2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,151,9,50,7.55,162,9,41,8.1,Sunrisers Hyderabad,0,1
+465,2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,201,8,48,10.05,183,10,43,9.15,Royal Challengers Bangalore,18,0
+466,2015,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,168,7,39,8.4,151,7,39,7.55,Chennai Super Kings,17,0
+467,2015,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,186,4,44,9.3,199,7,38,9.95,Chennai Super Kings,0,3
+468,2015,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,174,9,55,8.7,176,4,51,8.8,Kolkata Knight Riders,0,6
+469,2015,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,182,6,43,9.1,197,4,36,9.85,Mumbai Indians,0,6
+470,2015,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,192,8,46,9.6,205,5,44,10.25,Delhi Capitals,0,5
+471,2015,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,188,9,51,9.4,174,8,49,8.7,Kolkata Knight Riders,14,0
+472,2015,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,203,6,44,10.15,187,10,52,9.35,Royal Challengers Bangalore,16,0
+473,2015,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,166,6,49,8.3,145,6,56,7.25,Chennai Super Kings,21,0
+474,2015,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,174,4,51,8.7,183,7,53,9.15,Punjab Kings,0,3
+475,2015,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,158,10,42,7.9,172,5,38,8.6,Royal Challengers Bangalore,0,5
+476,2015,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,129,9,60,6.45,142,7,38,7.1,Delhi Capitals,0,3
+477,2015,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,161,8,46,8.05,139,7,48,6.95,Mumbai Indians,22,0
+478,2015,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,179,4,53,8.95,183,3,41,9.15,Mumbai Indians,0,7
+479,2015,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,161,4,49,8.05,172,5,44,8.6,Sunrisers Hyderabad,0,5
+480,2015,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,193,7,50,9.65,181,10,51,9.05,Chennai Super Kings,12,0
+481,2016,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,176,7,55,8.8,178,7,47,8.9,Kolkata Knight Riders,0,3
+482,2016,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,field,141,8,50,7.05,137,7,41,6.85,Punjab Kings,4,0
+483,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,155,9,51,7.75,159,7,54,7.95,Mumbai Indians,0,3
+484,2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,165,5,49,8.25,168,4,57,8.4,Sunrisers Hyderabad,0,6
+485,2016,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,169,5,63,8.45,176,7,49,8.8,Punjab Kings,0,3
+486,2016,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,133,8,52,6.65,117,7,48,5.85,Chennai Super Kings,16,0
+487,2016,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,188,8,52,9.4,179,7,45,8.95,Kolkata Knight Riders,9,0
+488,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,142,5,46,7.1,146,7,40,7.3,Kolkata Knight Riders,0,3
+489,2016,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,154,7,51,7.7,134,6,57,6.7,Rajasthan Royals,20,0
+490,2016,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,172,10,40,8.6,158,10,49,7.9,Delhi Capitals,14,0
+491,2016,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,186,10,44,9.3,199,6,45,9.95,Royal Challengers Bangalore,0,4
+492,2016,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,165,7,43,8.25,162,8,50,8.1,Sunrisers Hyderabad,3,0
+493,2016,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,162,8,50,8.1,173,4,39,8.65,Royal Challengers Bangalore,0,6
+494,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,157,9,52,7.85,162,9,43,8.1,Kolkata Knight Riders,0,1
+495,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Punjab Kings,Punjab Kings,field,196,10,45,9.8,205,9,47,10.25,Punjab Kings,0,1
+496,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,181,6,39,9.05,156,9,33,7.8,Mumbai Indians,25,0
+497,2016,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,137,10,55,6.85,131,6,42,6.55,Royal Challengers Bangalore,6,0
+498,2016,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,211,7,44,10.55,210,6,47,10.5,Kolkata Knight Riders,1,0
+499,2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,192,5,60,9.6,202,3,60,10.1,Kolkata Knight Riders,0,7
+500,2016,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,186,9,54,9.3,187,4,50,9.35,Kolkata Knight Riders,0,6
+501,2016,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,bat,179,9,44,8.95,183,8,40,9.15,Delhi Capitals,0,2
+502,2016,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,164,9,46,8.2,174,4,42,8.7,Delhi Capitals,0,6
+503,2016,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,177,6,53,8.85,168,7,46,8.4,Chennai Super Kings,9,0
+504,2016,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,191,5,41,9.55,193,7,44,9.65,Mumbai Indians,0,3
+505,2016,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,152,8,36,7.6,133,8,45,6.65,Delhi Capitals,19,0
+506,2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,162,9,57,8.1,172,9,50,8.6,Kolkata Knight Riders,0,1
+507,2016,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,146,9,59,7.3,138,7,54,6.9,Chennai Super Kings,8,0
+508,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,175,5,46,8.75,182,8,39,9.1,Kolkata Knight Riders,0,2
+509,2016,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,158,5,54,7.9,149,7,59,7.45,Sunrisers Hyderabad,9,0
+510,2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,192,5,45,9.6,206,4,38,10.3,Mumbai Indians,0,6
+511,2016,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,167,8,37,8.35,181,7,48,9.05,Delhi Capitals,0,3
+512,2016,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,162,8,45,8.1,146,7,34,7.3,Chennai Super Kings,16,0
+513,2016,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,174,8,44,8.7,158,10,37,7.9,Punjab Kings,16,0
+514,2016,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,113,4,47,5.65,98,8,58,4.9,Chennai Super Kings,15,0
+515,2016,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,194,6,45,9.7,199,4,41,9.95,Mumbai Indians,0,6
+516,2016,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,field,173,5,42,8.65,177,6,48,8.85,Delhi Capitals,0,4
+517,2016,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,178,8,55,8.9,188,8,45,9.4,Royal Challengers Bangalore,0,2
+518,2016,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,161,8,42,8.05,168,4,40,8.4,Rajasthan Royals,0,6
+519,2016,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,160,7,50,8.0,175,9,52,8.75,Rajasthan Royals,0,1
+520,2016,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,150,7,56,7.5,153,3,44,7.65,Rajasthan Royals,0,7
+521,2016,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,164,9,43,8.2,170,5,29,8.5,Rajasthan Royals,0,5
+522,2016,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,180,10,52,9.0,160,7,44,8.0,Punjab Kings,20,0
+523,2016,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,166,10,51,8.3,163,9,35,8.15,Royal Challengers Bangalore,3,0
+524,2016,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,155,9,52,7.75,142,6,37,7.1,Punjab Kings,13,0
+525,2016,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,170,9,39,8.5,175,7,49,8.75,Mumbai Indians,0,3
+526,2016,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,164,5,38,8.2,165,4,54,8.25,Royal Challengers Bangalore,0,6
+527,2016,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,151,5,43,7.55,153,3,47,7.65,Sunrisers Hyderabad,0,7
+528,2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,bat,185,4,41,9.25,188,3,46,9.4,Punjab Kings,0,7
+529,2016,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,172,9,52,8.6,181,9,47,9.05,Royal Challengers Bangalore,0,1
+530,2016,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,158,10,43,7.9,172,7,46,8.6,Chennai Super Kings,0,3
+531,2016,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,field,145,9,30,7.25,126,9,49,6.3,Punjab Kings,19,0
+532,2016,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,181,7,33,9.05,188,5,38,9.4,Royal Challengers Bangalore,0,5
+533,2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,176,6,60,8.8,177,8,46,8.85,Mumbai Indians,0,2
+534,2016,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,151,10,46,7.55,155,9,55,7.75,Rajasthan Royals,0,1
+535,2016,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,field,153,7,43,7.65,165,8,42,8.25,Punjab Kings,0,2
+536,2016,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,147,7,48,7.35,130,10,57,6.5,Rajasthan Royals,17,0
+537,2016,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,170,5,46,8.5,172,8,43,8.6,Royal Challengers Bangalore,0,2
+538,2016,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,bat,136,6,53,6.8,137,7,45,6.85,Punjab Kings,0,3
+539,2016,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,161,9,67,8.05,162,4,48,8.1,Delhi Capitals,0,6
+540,2016,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,151,7,45,7.55,164,6,54,8.2,Mumbai Indians,0,4
+541,2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,167,5,39,8.35,158,9,52,7.9,Royal Challengers Bangalore,9,0
+542,2017,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,152,9,59,7.6,145,9,53,7.25,Sunrisers Hyderabad,7,0
+543,2017,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,156,6,55,7.8,168,3,46,8.4,Royal Challengers Bangalore,0,7
+544,2017,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,180,6,50,9.0,158,7,40,7.9,Kolkata Knight Riders,22,0
+545,2017,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,153,10,54,7.65,155,6,43,7.75,Chennai Super Kings,0,4
+546,2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,157,6,42,7.85,149,7,48,7.45,Mumbai Indians,8,0
+547,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,202,6,41,10.1,179,10,46,8.95,Chennai Super Kings,23,0
+548,2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,190,10,47,9.5,166,7,49,8.3,Kolkata Knight Riders,24,0
+549,2017,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,145,4,50,7.25,153,7,44,7.65,Delhi Capitals,0,3
+550,2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,182,6,55,9.1,173,10,64,8.65,Royal Challengers Bangalore,9,0
+551,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,175,8,49,8.75,176,9,47,8.8,Sunrisers Hyderabad,0,1
+552,2017,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,158,6,50,7.9,136,10,43,6.8,Rajasthan Royals,22,0
+553,2017,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,168,6,55,8.4,174,3,38,8.7,Kolkata Knight Riders,0,7
+554,2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,185,10,55,9.25,187,6,45,9.35,Royal Challengers Bangalore,0,4
+555,2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,126,8,44,6.3,107,8,55,5.35,Mumbai Indians,19,0
+556,2017,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,164,5,42,8.2,161,9,42,8.05,Sunrisers Hyderabad,3,0
+557,2017,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,180,8,51,9.0,182,9,44,9.1,Punjab Kings,0,1
+558,2017,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,158,9,45,7.9,165,4,39,8.25,Sunrisers Hyderabad,0,6
+559,2017,"Eden Gardens, Kolkata",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,194,9,46,9.7,205,7,54,10.25,Royal Challengers Bangalore,0,3
+560,2017,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,192,5,53,9.6,174,9,42,8.7,Delhi Capitals,18,0
+561,2017,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,172,6,47,8.6,178,9,39,8.9,Chennai Super Kings,0,1
+562,2017,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,170,8,40,8.5,177,9,54,8.85,Mumbai Indians,0,1
+563,2017,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,156,9,49,7.8,161,7,47,8.05,Punjab Kings,0,3
+564,2017,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,160,5,51,8.0,166,3,42,8.3,Royal Challengers Bangalore,0,7
+565,2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,180,6,39,9.0,185,5,46,9.25,Chennai Super Kings,0,5
+566,2017,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,199,8,41,9.95,175,6,41,8.75,Mumbai Indians,24,0
+567,2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,174,8,49,8.7,172,10,48,8.6,Delhi Capitals,2,0
+568,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,173,7,51,8.65,169,7,53,8.45,Rajasthan Royals,4,0
+569,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,172,6,46,8.6,175,5,50,8.75,Delhi Capitals,0,5
+570,2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,199,10,47,9.95,182,6,39,9.1,Mumbai Indians,17,0
+571,2017,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,184,6,47,9.2,194,8,30,9.7,Chennai Super Kings,0,2
+572,2017,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,180,8,44,9.0,192,4,45,9.6,Royal Challengers Bangalore,0,6
+573,2017,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,170,8,49,8.5,182,7,50,9.1,Mumbai Indians,0,3
+574,2017,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,157,9,51,7.85,154,6,44,7.7,Mumbai Indians,3,0
+575,2017,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,178,6,51,8.9,179,9,39,8.95,Mumbai Indians,0,1
+576,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,184,7,44,9.2,198,4,51,9.9,Kolkata Knight Riders,0,6
+577,2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,171,9,59,8.55,181,4,44,9.05,Delhi Capitals,0,6
+578,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,158,7,47,7.9,164,4,43,8.2,Sunrisers Hyderabad,0,6
+579,2017,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,179,9,38,8.95,178,9,38,8.9,Mumbai Indians,1,0
+580,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,145,10,53,7.25,136,6,57,6.8,Sunrisers Hyderabad,9,0
+581,2017,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,163,9,46,8.15,141,8,46,7.05,Chennai Super Kings,22,0
+582,2017,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,185,7,42,9.25,197,3,47,9.85,Sunrisers Hyderabad,0,7
+583,2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,182,8,51,9.1,181,6,47,9.05,Delhi Capitals,1,0
+584,2017,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,183,9,31,9.15,189,8,50,9.45,Royal Challengers Bangalore,0,2
+585,2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Punjab Kings,bat,153,9,37,7.65,160,9,49,8.0,Punjab Kings,0,1
+586,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,189,7,47,9.45,186,9,52,9.3,Sunrisers Hyderabad,3,0
+587,2017,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,194,6,55,9.7,183,9,57,9.15,Mumbai Indians,11,0
+588,2017,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,178,6,48,8.9,161,7,34,8.05,Punjab Kings,17,0
+589,2017,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,160,4,42,8.0,172,3,61,8.6,Chennai Super Kings,0,7
+590,2017,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Chennai Super Kings,Punjab Kings,field,161,7,48,8.05,151,9,49,7.55,Punjab Kings,10,0
+591,2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,165,4,58,8.25,145,10,41,7.25,Royal Challengers Bangalore,20,0
+592,2017,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,168,9,43,8.4,170,8,36,8.5,Chennai Super Kings,0,2
+593,2017,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,153,10,47,7.65,161,4,42,8.05,Kolkata Knight Riders,0,6
+594,2017,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,152,6,39,7.6,144,7,45,7.2,Punjab Kings,8,0
+595,2017,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,137,10,52,6.85,141,6,46,7.05,Sunrisers Hyderabad,0,4
+596,2017,"Wankhede Stadium, Mumbai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,138,7,46,6.9,150,7,40,7.5,Chennai Super Kings,0,3
+597,2017,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,170,5,56,8.5,177,8,32,8.85,Royal Challengers Bangalore,0,2
+598,2017,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,167,6,47,8.35,182,5,50,9.1,Royal Challengers Bangalore,0,5
+599,2017,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,168,9,43,8.4,171,6,43,8.55,Mumbai Indians,0,4
+600,2017,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,150,7,54,7.5,151,4,46,7.55,Sunrisers Hyderabad,0,6
+601,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,199,9,47,9.95,208,8,41,10.4,Mumbai Indians,0,2
+602,2018,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,137,10,37,6.85,143,7,34,7.15,Mumbai Indians,0,3
+603,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,169,6,51,8.45,182,6,34,9.1,Delhi Capitals,0,4
+604,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,181,4,45,9.05,172,6,47,8.6,Kolkata Knight Riders,9,0
+605,2018,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,194,5,53,9.7,205,6,44,10.25,Chennai Super Kings,0,4
+606,2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,148,8,35,7.4,159,7,40,7.95,Chennai Super Kings,0,3
+607,2018,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,161,4,42,8.05,162,8,45,8.1,Punjab Kings,0,2
+608,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,166,5,46,8.3,171,7,41,8.55,Sunrisers Hyderabad,0,3
+609,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,168,6,50,8.4,175,9,38,8.75,Chennai Super Kings,0,1
+610,2018,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,190,7,47,9.5,202,9,46,10.1,Rajasthan Royals,0,1
+611,2018,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,177,8,49,8.85,187,8,52,9.35,Sunrisers Hyderabad,0,2
+612,2018,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,170,8,44,8.5,180,5,48,9.0,Chennai Super Kings,0,5
+613,2018,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,144,10,48,7.2,154,4,45,7.7,Kolkata Knight Riders,0,6
+614,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,161,9,47,8.05,137,7,32,6.85,Kolkata Knight Riders,24,0
+615,2018,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,155,4,48,7.75,132,8,47,6.6,Rajasthan Royals,23,0
+616,2018,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,146,10,55,7.3,157,5,39,7.85,Rajasthan Royals,0,5
+617,2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,182,10,50,9.1,193,6,41,9.65,Chennai Super Kings,0,4
+618,2018,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,196,5,40,9.8,178,8,52,8.9,Royal Challengers Bangalore,18,0
+619,2018,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,183,8,43,9.15,172,10,55,8.6,Royal Challengers Bangalore,11,0
+620,2018,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Punjab Kings,bat,160,6,49,8.0,149,9,47,7.45,Punjab Kings,11,0
+621,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,162,9,52,8.1,139,6,51,6.95,Sunrisers Hyderabad,23,0
+622,2018,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,133,7,55,6.65,123,7,34,6.15,Kolkata Knight Riders,10,0
+623,2018,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,183,4,54,9.15,184,9,38,9.2,Delhi Capitals,0,1
+624,2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,157,9,41,7.85,147,8,44,7.35,Royal Challengers Bangalore,10,0
+625,2018,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,159,9,52,7.95,166,8,55,8.3,Rajasthan Royals,0,2
+626,2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,field,190,7,44,9.5,186,10,44,9.3,Delhi Capitals,4,0
+627,2018,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,134,5,43,6.7,139,7,52,6.95,Punjab Kings,0,3
+628,2018,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,194,5,40,9.7,196,3,41,9.8,Rajasthan Royals,0,7
+629,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,164,5,49,8.2,154,10,40,7.7,Delhi Capitals,10,0
+630,2018,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,172,4,45,8.6,180,8,45,9.0,Delhi Capitals,0,2
+631,2018,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,174,7,48,8.7,184,7,42,9.2,Royal Challengers Bangalore,0,3
+632,2018,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,163,9,47,8.15,145,6,43,7.25,Royal Challengers Bangalore,18,0
+633,2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,160,7,57,8.0,171,8,49,8.55,Kolkata Knight Riders,0,2
+634,2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,159,6,52,7.95,171,8,43,8.55,Chennai Super Kings,0,2
+635,2018,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,186,4,50,9.3,192,6,45,9.6,Rajasthan Royals,0,4
+636,2018,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,173,8,38,8.65,187,8,38,9.35,Rajasthan Royals,0,2
+637,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,143,8,48,7.15,153,4,58,7.65,Sunrisers Hyderabad,0,6
+638,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,205,10,51,10.25,191,9,49,9.55,Sunrisers Hyderabad,14,0
+639,2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,132,4,44,6.6,117,8,40,5.85,Mumbai Indians,15,0
+640,2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,153,4,46,7.65,131,10,42,6.55,Delhi Capitals,22,0
+641,2018,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,129,5,52,6.45,110,6,38,5.5,Rajasthan Royals,19,0
+642,2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,169,8,60,8.45,173,4,39,8.65,Mumbai Indians,0,6
+643,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,119,8,46,5.95,128,6,53,6.4,Sunrisers Hyderabad,0,4
+644,2018,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,200,4,40,10.0,188,6,49,9.4,Sunrisers Hyderabad,12,0
+645,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,156,9,47,7.8,163,6,64,8.15,Rajasthan Royals,0,4
+646,2018,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,137,5,49,6.85,144,9,49,7.2,Chennai Super Kings,0,1
+647,2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,184,5,48,9.2,195,3,48,9.75,Rajasthan Royals,0,7
+648,2018,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,157,4,49,7.85,170,6,43,8.5,Mumbai Indians,0,4
+649,2018,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,176,8,45,8.8,190,6,48,9.5,Rajasthan Royals,0,4
+650,2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,164,8,54,8.2,176,4,45,8.8,Sunrisers Hyderabad,0,6
+651,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,133,9,55,6.65,143,6,39,7.15,Chennai Super Kings,0,4
+652,2018,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,153,5,44,7.65,165,8,55,8.25,Royal Challengers Bangalore,0,2
+653,2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,126,8,66,6.3,110,9,53,5.5,Delhi Capitals,16,0
+654,2018,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,169,6,47,8.45,181,7,47,9.05,Kolkata Knight Riders,0,3
+655,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,174,8,51,8.7,179,9,49,8.95,Mumbai Indians,0,1
+656,2018,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,166,10,46,8.3,157,7,44,7.85,Punjab Kings,9,0
+657,2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,161,8,54,8.05,139,9,50,6.95,Kolkata Knight Riders,22,0
+658,2018,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,112,5,51,5.6,110,8,47,5.5,Mumbai Indians,2,0
+659,2018,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,164,5,45,8.2,140,7,53,7.0,Delhi Capitals,24,0
+660,2018,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,182,4,43,9.1,189,6,48,9.45,Kolkata Knight Riders,0,4
+661,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,147,7,39,7.35,130,6,41,6.5,Chennai Super Kings,17,0
+662,2019,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,180,6,53,9.0,182,5,49,9.1,Chennai Super Kings,0,5
+663,2019,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,178,9,51,8.9,172,8,41,8.6,Royal Challengers Bangalore,6,0
+664,2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,172,4,52,8.6,183,6,51,9.15,Rajasthan Royals,0,4
+665,2019,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,186,4,52,9.3,184,10,48,9.2,Rajasthan Royals,2,0
+666,2019,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,184,10,47,9.2,191,8,39,9.55,Chennai Super Kings,0,2
+667,2019,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,162,9,43,8.1,141,9,41,7.05,Sunrisers Hyderabad,21,0
+668,2019,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,162,5,43,8.1,153,6,43,7.65,Chennai Super Kings,9,0
+669,2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,130,5,49,6.5,138,4,46,6.9,Punjab Kings,0,6
+670,2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,150,5,51,7.5,146,9,52,7.3,Royal Challengers Bangalore,4,0
+671,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,136,10,43,6.8,151,6,40,7.55,Delhi Capitals,0,4
+672,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,148,5,52,7.4,135,10,44,6.75,Sunrisers Hyderabad,13,0
+673,2019,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,160,10,35,8.0,157,10,50,7.85,Delhi Capitals,3,0
+674,2019,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,142,8,48,7.1,148,5,47,7.4,Delhi Capitals,0,5
+675,2019,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,189,8,40,9.45,178,6,24,8.9,Chennai Super Kings,11,0
+676,2019,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,168,8,58,8.4,175,8,54,8.75,Royal Challengers Bangalore,0,2
+677,2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,168,4,45,8.4,153,7,51,7.65,Punjab Kings,15,0
+678,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,147,7,50,7.35,156,8,49,7.8,Delhi Capitals,0,2
+679,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,184,4,64,9.2,196,3,48,9.8,Punjab Kings,0,7
+680,2019,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,155,9,47,7.75,152,6,33,7.6,Royal Challengers Bangalore,3,0
+681,2019,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,152,9,45,7.6,151,7,42,7.55,Sunrisers Hyderabad,1,0
+682,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,167,10,43,8.35,163,9,53,8.15,Delhi Capitals,4,0
+683,2019,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,field,165,6,47,8.25,176,7,43,8.8,Delhi Capitals,0,3
+684,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,167,4,52,8.35,170,9,39,8.5,Mumbai Indians,0,1
+685,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,153,5,46,7.65,151,7,36,7.55,Royal Challengers Bangalore,2,0
+686,2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,150,4,45,7.5,153,3,52,7.65,Royal Challengers Bangalore,0,7
+687,2019,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,169,5,49,8.45,152,9,51,7.6,Chennai Super Kings,17,0
+688,2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,162,9,50,8.1,164,8,45,8.2,Kolkata Knight Riders,0,2
+689,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,169,4,44,8.45,165,10,28,8.25,Chennai Super Kings,4,0
+690,2019,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,162,4,56,8.1,175,4,52,8.75,Royal Challengers Bangalore,0,6
+691,2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,182,9,55,9.1,186,6,46,9.3,Punjab Kings,0,4
+692,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,168,8,44,8.4,181,3,43,9.05,Sunrisers Hyderabad,0,7
+693,2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,176,8,55,8.8,183,4,45,9.15,Chennai Super Kings,0,6
+694,2019,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,156,5,48,7.8,149,9,50,7.45,Rajasthan Royals,7,0
+695,2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,139,7,34,6.95,154,7,42,7.7,Delhi Capitals,0,3
+696,2019,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,143,9,44,7.15,149,5,44,7.45,Kolkata Knight Riders,0,5
+697,2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,156,5,56,7.8,164,6,48,8.2,Sunrisers Hyderabad,0,4
+698,2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,170,10,51,8.5,150,7,38,7.5,Royal Challengers Bangalore,20,0
+699,2019,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,183,8,47,9.15,191,5,50,9.55,Delhi Capitals,0,5
+700,2019,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,145,6,38,7.25,149,7,51,7.45,Rajasthan Royals,0,3
+701,2019,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,171,7,42,8.55,154,6,39,7.7,Sunrisers Hyderabad,17,0
+702,2019,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,185,7,40,9.25,194,9,57,9.7,Chennai Super Kings,0,1
+703,2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,148,6,51,7.4,150,3,43,7.5,Rajasthan Royals,0,7
+704,2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,175,7,44,8.75,178,9,44,8.9,Rajasthan Royals,0,1
+705,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,165,10,41,8.25,152,8,51,7.6,Royal Challengers Bangalore,13,0
+706,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,155,8,46,7.75,131,6,39,6.55,Delhi Capitals,24,0
+707,2019,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,118,8,46,5.9,124,4,62,6.2,Delhi Capitals,0,6
+708,2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,179,8,47,8.95,187,8,44,9.35,Chennai Super Kings,0,2
+709,2019,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,165,8,51,8.25,156,6,37,7.8,Punjab Kings,9,0
+710,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,185,7,52,9.25,163,10,51,8.15,Kolkata Knight Riders,22,0
+711,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,172,7,48,8.6,179,4,50,8.95,Punjab Kings,0,6
+712,2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,175,9,45,8.75,178,9,41,8.9,Delhi Capitals,0,1
+713,2019,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,166,7,57,8.3,174,8,37,8.7,Chennai Super Kings,0,2
+714,2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,138,10,48,6.9,117,8,46,5.85,Delhi Capitals,21,0
+715,2019,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,168,8,49,8.4,151,10,44,7.55,Royal Challengers Bangalore,17,0
+716,2019,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Punjab Kings,Mumbai Indians,field,191,5,38,9.55,183,9,40,9.15,Mumbai Indians,8,0
+717,2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,163,7,38,8.15,143,7,44,7.15,Rajasthan Royals,20,0
+718,2019,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,194,5,48,9.7,200,7,47,10.0,Kolkata Knight Riders,0,3
+719,2019,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,142,8,44,7.1,120,8,43,6.0,Sunrisers Hyderabad,22,0
+720,2019,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,159,4,55,7.95,146,9,49,7.3,Rajasthan Royals,13,0
+721,2020,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Punjab Kings,Punjab Kings,field,144,9,49,7.2,152,3,49,7.6,Punjab Kings,0,7
+722,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,185,8,57,9.25,170,8,38,8.5,Punjab Kings,15,0
+723,2020,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,150,10,40,7.5,141,7,44,7.05,Kolkata Knight Riders,9,0
+724,2020,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,173,5,53,8.65,183,7,45,9.15,Rajasthan Royals,0,3
+725,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,159,6,48,7.95,160,5,40,8.0,Sunrisers Hyderabad,0,5
+726,2020,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,202,9,38,10.1,178,9,47,8.9,Sunrisers Hyderabad,24,0
+727,2020,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Punjab Kings,Punjab Kings,field,201,5,48,10.05,181,6,44,9.05,Rajasthan Royals,20,0
+728,2020,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,158,8,46,7.9,155,6,55,7.75,Punjab Kings,3,0
+729,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,125,9,57,6.25,140,4,36,7.0,Sunrisers Hyderabad,0,6
+730,2020,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,160,10,45,8.0,141,8,50,7.05,Chennai Super Kings,19,0
+731,2020,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,136,5,50,6.8,147,9,60,7.35,Mumbai Indians,0,1
+732,2020,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,140,9,49,7.0,139,6,41,6.95,Rajasthan Royals,1,0
+733,2020,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,172,8,48,8.6,177,8,41,8.85,Chennai Super Kings,0,2
+734,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,173,5,58,8.65,176,5,44,8.8,Sunrisers Hyderabad,0,5
+735,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,177,6,40,8.85,188,5,39,9.4,Sunrisers Hyderabad,0,5
+736,2020,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,173,10,56,8.65,148,6,48,7.4,Royal Challengers Bangalore,25,0
+737,2020,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,field,159,9,47,7.95,147,6,37,7.35,Punjab Kings,12,0
+738,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,175,6,53,8.75,161,8,42,8.05,Sunrisers Hyderabad,14,0
+739,2020,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,156,10,49,7.8,136,10,42,6.8,Punjab Kings,20,0
+740,2020,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,163,4,60,8.15,168,8,44,8.4,Chennai Super Kings,0,2
+741,2020,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,158,9,44,7.9,170,9,51,8.5,Kolkata Knight Riders,0,1
+742,2020,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,161,6,44,8.05,164,3,55,8.2,Rajasthan Royals,0,7
+743,2020,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,190,10,44,9.5,194,3,32,9.7,Sunrisers Hyderabad,0,7
+744,2020,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,183,4,43,9.15,194,3,51,9.7,Delhi Capitals,0,7
+745,2020,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,129,5,53,6.45,128,6,37,6.4,Kolkata Knight Riders,1,0
+746,2020,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,field,178,5,48,8.9,153,10,39,7.65,Punjab Kings,25,0
+747,2020,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,157,9,52,7.85,162,4,46,8.1,Mumbai Indians,0,6
+748,2020,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,175,9,59,8.75,160,6,35,8.0,Royal Challengers Bangalore,15,0
+749,2020,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,194,8,48,9.7,196,9,39,9.8,Delhi Capitals,0,1
+750,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,141,10,46,7.05,146,7,52,7.3,Royal Challengers Bangalore,0,3
+751,2020,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,162,6,57,8.1,174,5,35,8.7,Rajasthan Royals,0,5
+752,2020,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,164,10,40,8.2,178,9,48,8.9,Kolkata Knight Riders,0,1
+753,2020,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,180,9,45,9.0,188,7,27,9.4,Sunrisers Hyderabad,0,3
+754,2020,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,168,9,50,8.4,162,6,48,8.1,Kolkata Knight Riders,6,0
+755,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,187,5,41,9.35,163,9,50,8.15,Sunrisers Hyderabad,24,0
+756,2020,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,186,7,37,9.3,173,9,48,8.65,Mumbai Indians,13,0
+757,2020,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,155,7,47,7.75,166,4,48,8.3,Kolkata Knight Riders,0,6
+758,2020,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,156,5,43,7.8,167,5,46,8.35,Rajasthan Royals,0,5
+759,2020,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,145,5,41,7.25,153,6,50,7.65,Rajasthan Royals,0,4
+760,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,144,7,51,7.2,140,9,49,7.0,Mumbai Indians,4,0
+761,2020,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,133,4,43,6.65,144,9,54,7.2,Punjab Kings,0,1
+762,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,147,6,45,7.35,131,6,49,6.55,Mumbai Indians,16,0
+763,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,179,7,46,8.95,189,6,41,9.45,Sunrisers Hyderabad,0,4
+764,2020,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,190,8,58,9.5,204,5,52,10.2,Delhi Capitals,0,5
+765,2020,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,166,4,43,8.3,172,6,40,8.6,Delhi Capitals,0,4
+766,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,174,8,50,8.7,186,3,55,9.3,Royal Challengers Bangalore,0,7
+767,2020,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,176,4,38,8.8,190,6,53,9.5,Royal Challengers Bangalore,0,4
+768,2020,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,bat,147,6,45,7.35,154,5,47,7.7,Punjab Kings,0,5
+769,2020,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,200,7,66,10.0,213,8,50,10.65,Delhi Capitals,0,2
+770,2020,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,161,7,51,8.05,158,10,52,7.9,Sunrisers Hyderabad,3,0
+771,2020,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,field,159,10,58,7.95,171,3,47,8.55,Punjab Kings,0,7
+772,2020,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,173,7,51,8.65,186,3,48,9.3,Mumbai Indians,0,7
+773,2020,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,180,7,44,9.0,190,7,42,9.5,Rajasthan Royals,0,3
+774,2020,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,145,5,50,7.25,121,9,51,6.05,Rajasthan Royals,24,0
+775,2020,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,173,6,58,8.65,177,4,45,8.85,Sunrisers Hyderabad,0,6
+776,2020,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,177,9,41,8.85,184,5,43,9.2,Delhi Capitals,0,5
+777,2020,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,177,5,53,8.85,181,3,43,9.05,Sunrisers Hyderabad,0,7
+778,2020,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,163,7,38,8.15,161,7,43,8.05,Chennai Super Kings,2,0
+779,2020,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,181,9,51,9.05,192,9,49,9.6,Rajasthan Royals,0,1
+780,2020,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,165,6,48,8.25,162,9,41,8.1,Royal Challengers Bangalore,3,0
+781,2021,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,177,4,50,8.85,179,9,49,8.95,Kolkata Knight Riders,0,1
+782,2021,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,155,5,35,7.75,158,4,53,7.9,Rajasthan Royals,0,6
+783,2021,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,156,8,42,7.8,158,5,50,7.9,Mumbai Indians,0,5
+784,2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,157,7,54,7.85,147,6,50,7.35,Delhi Capitals,10,0
+785,2021,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,177,8,39,8.85,188,8,54,9.4,Delhi Capitals,0,2
+786,2021,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,169,7,45,8.45,176,5,47,8.8,Delhi Capitals,0,5
+787,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,133,7,50,6.65,108,9,38,5.4,Kolkata Knight Riders,25,0
+788,2021,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,140,10,38,7.0,147,9,53,7.35,Rajasthan Royals,0,1
+789,2021,"M. Chinnaswamy Stadium, Bangalore",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,153,6,57,7.65,165,9,42,8.25,Delhi Capitals,0,1
+790,2021,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,134,10,41,6.7,133,9,54,6.65,Royal Challengers Bangalore,1,0
+791,2021,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,162,5,44,8.1,174,9,47,8.7,Royal Challengers Bangalore,0,1
+792,2021,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,174,10,54,8.7,165,7,56,8.25,Rajasthan Royals,9,0
+793,2021,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,158,6,40,7.9,173,6,43,8.65,Delhi Capitals,0,4
+794,2021,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,169,7,42,8.45,181,9,39,9.05,Sunrisers Hyderabad,0,1
+795,2021,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,171,5,47,8.55,177,4,46,8.85,Sunrisers Hyderabad,0,6
+796,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,151,5,46,7.55,144,8,39,7.2,Punjab Kings,7,0
+797,2021,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,181,10,54,9.05,185,9,33,9.25,Royal Challengers Bangalore,0,1
+798,2021,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,148,10,39,7.4,153,5,41,7.65,Royal Challengers Bangalore,0,5
+799,2021,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,163,4,39,8.15,166,9,39,8.3,Kolkata Knight Riders,0,1
+800,2021,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,146,9,49,7.3,156,5,46,7.8,Chennai Super Kings,0,5
+801,2021,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,152,7,49,7.6,132,10,42,6.6,Punjab Kings,20,0
+802,2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,160,7,58,8.0,155,10,55,7.75,Sunrisers Hyderabad,5,0
+803,2021,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,141,6,52,7.05,136,6,51,6.8,Sunrisers Hyderabad,5,0
+804,2021,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,144,6,52,7.2,147,6,56,7.35,Chennai Super Kings,0,4
+805,2021,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,144,8,42,7.2,135,10,53,6.75,Kolkata Knight Riders,9,0
+806,2021,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,169,8,51,8.45,147,9,48,7.35,Royal Challengers Bangalore,22,0
+807,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,172,4,40,8.6,175,8,53,8.75,Punjab Kings,0,2
+808,2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,186,6,46,9.3,168,9,45,8.4,Chennai Super Kings,18,0
+809,2021,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,137,6,51,6.85,151,5,50,7.55,Mumbai Indians,0,5
+810,2021,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,163,8,54,8.15,162,10,43,8.1,Rajasthan Royals,1,0
+811,2021,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,175,6,41,8.75,186,8,45,9.3,Mumbai Indians,0,2
+812,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Mumbai Indians,Punjab Kings,field,161,5,49,8.05,169,9,43,8.45,Mumbai Indians,0,1
+813,2021,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,162,4,52,8.1,147,8,42,7.35,Chennai Super Kings,15,0
+814,2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Punjab Kings,field,136,10,58,6.8,138,7,55,6.9,Punjab Kings,0,3
+815,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,141,10,52,7.05,138,6,42,6.9,Delhi Capitals,3,0
+816,2021,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,bat,169,4,49,8.45,182,6,44,9.1,Punjab Kings,0,4
+817,2021,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,150,8,43,7.5,158,6,39,7.9,Royal Challengers Bangalore,0,4
+818,2021,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,150,8,47,7.5,161,6,40,8.05,Rajasthan Royals,0,4
+819,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,177,7,56,8.85,188,7,41,9.4,Sunrisers Hyderabad,0,3
+820,2021,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,169,6,50,8.45,172,8,49,8.6,Rajasthan Royals,0,2
+821,2021,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,166,8,52,8.3,168,3,49,8.4,Delhi Capitals,0,7
+822,2021,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,142,9,53,7.1,133,8,52,6.65,Punjab Kings,9,0
+823,2021,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,151,9,48,7.55,145,7,50,7.25,Kolkata Knight Riders,6,0
+824,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,161,8,54,8.05,136,9,62,6.8,Delhi Capitals,25,0
+825,2021,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,150,9,39,7.5,141,6,48,7.05,Kolkata Knight Riders,9,0
+826,2021,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,177,4,46,8.85,185,6,56,9.25,Kolkata Knight Riders,0,4
+827,2021,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,140,10,52,7.0,143,4,41,7.15,Chennai Super Kings,0,6
+828,2021,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,195,5,59,9.75,198,8,40,9.9,Punjab Kings,0,2
+829,2021,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,155,5,53,7.75,156,3,43,7.8,Chennai Super Kings,0,7
+830,2021,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,164,10,48,8.2,168,4,32,8.4,Punjab Kings,0,6
+831,2021,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,164,4,43,8.2,141,9,42,7.05,Kolkata Knight Riders,23,0
+832,2021,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,190,7,40,9.5,199,7,51,9.95,Chennai Super Kings,0,3
+833,2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,159,8,46,7.95,161,5,51,8.05,Punjab Kings,0,5
+834,2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,171,9,51,8.55,174,5,52,8.7,Mumbai Indians,0,5
+835,2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,159,8,44,7.95,148,10,38,7.4,Mumbai Indians,11,0
+836,2021,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Punjab Kings,Punjab Kings,field,150,10,65,7.5,129,8,54,6.45,Chennai Super Kings,21,0
+837,2021,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,140,9,40,7.0,118,9,49,5.9,Chennai Super Kings,22,0
+838,2021,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,174,10,51,8.7,182,5,44,9.1,Punjab Kings,0,5
+839,2021,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,field,162,6,49,8.1,156,10,46,7.8,Mumbai Indians,6,0
+840,2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,125,8,46,6.25,134,4,40,6.7,Delhi Capitals,0,6
+841,2022,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,168,4,65,8.4,148,6,48,7.4,Royal Challengers Bangalore,20,0
+842,2022,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,bat,159,6,53,7.95,164,8,49,8.2,Mumbai Indians,0,2
+843,2022,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,172,9,51,8.6,186,4,60,9.3,Chennai Super Kings,0,6
+844,2022,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,144,5,50,7.2,128,8,39,6.4,Royal Challengers Bangalore,16,0
+845,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,174,9,42,8.7,162,7,43,8.1,Mumbai Indians,12,0
+846,2022,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,159,7,53,7.95,144,10,52,7.2,Rajasthan Royals,15,0
+847,2022,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,142,4,48,7.1,149,9,41,7.45,Punjab Kings,0,1
+848,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,142,8,46,7.1,153,8,43,7.65,Sunrisers Hyderabad,0,2
+849,2022,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,208,6,50,10.4,213,7,36,10.65,Sunrisers Hyderabad,0,3
+850,2022,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,154,9,54,7.7,167,9,60,8.35,Delhi Capitals,0,1
+851,2022,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,136,8,36,6.8,148,8,59,7.4,Kolkata Knight Riders,0,2
+852,2022,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,172,8,42,8.6,183,4,49,9.15,Mumbai Indians,0,6
+853,2022,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,117,8,48,5.85,118,9,48,5.9,Kolkata Knight Riders,0,1
+854,2022,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,181,7,41,9.05,193,3,46,9.65,Rajasthan Royals,0,7
+855,2022,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,148,6,49,7.4,161,9,39,8.05,Rajasthan Royals,0,1
+856,2022,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,157,6,42,7.85,161,9,50,8.05,Delhi Capitals,0,1
+857,2022,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,180,4,46,9.0,187,4,46,9.35,Sunrisers Hyderabad,0,6
+858,2022,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,138,8,46,6.9,151,6,45,7.55,Royal Challengers Bangalore,0,4
+859,2022,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,212,9,41,10.6,196,9,56,9.8,Mumbai Indians,16,0
+860,2022,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,182,9,49,9.1,191,3,58,9.55,Royal Challengers Bangalore,0,7
+861,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,171,4,50,8.55,157,6,45,7.85,Sunrisers Hyderabad,14,0
+862,2022,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,187,6,54,9.35,193,5,41,9.65,Rajasthan Royals,0,5
+863,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,141,4,46,7.05,131,8,40,6.55,Mumbai Indians,10,0
+864,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,163,4,55,8.15,149,9,42,7.45,Sunrisers Hyderabad,14,0
+865,2022,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,164,10,48,8.2,144,7,51,7.2,Mumbai Indians,20,0
+866,2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,124,10,44,6.2,121,10,47,6.05,Rajasthan Royals,3,0
+867,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,186,9,45,9.3,162,8,32,8.1,Chennai Super Kings,24,0
+868,2022,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,176,8,44,8.8,155,10,37,7.75,Royal Challengers Bangalore,21,0
+869,2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,153,8,46,7.65,149,10,41,7.45,Royal Challengers Bangalore,4,0
+870,2022,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,125,4,53,6.25,105,8,54,5.25,Rajasthan Royals,20,0
+871,2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,176,7,41,8.8,177,9,44,8.85,Mumbai Indians,0,1
+872,2022,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,164,8,51,8.2,167,4,50,8.35,Sunrisers Hyderabad,0,6
+873,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,151,9,48,7.55,161,5,49,8.05,Chennai Super Kings,0,5
+874,2022,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,191,6,52,9.55,206,5,51,10.3,Punjab Kings,0,5
+875,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,166,10,56,8.3,158,9,48,7.9,Mumbai Indians,8,0
+876,2022,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,field,149,8,56,7.45,157,3,50,7.85,Punjab Kings,0,7
+877,2022,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,157,5,45,7.85,136,7,48,6.8,Chennai Super Kings,21,0
+878,2022,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,173,10,49,8.65,161,10,48,8.05,Mumbai Indians,12,0
+879,2022,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,195,4,54,9.75,203,9,47,10.15,Chennai Super Kings,0,1
+880,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,181,6,41,9.05,159,9,48,7.95,Mumbai Indians,22,0
+881,2022,"Eden Gardens, Kolkata",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,197,5,46,9.85,178,6,40,8.9,Delhi Capitals,19,0
+882,2022,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,153,9,41,7.65,144,9,40,7.2,Mumbai Indians,9,0
+883,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,158,10,39,7.9,149,7,46,7.45,Sunrisers Hyderabad,9,0
+884,2022,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,181,9,42,9.05,196,3,56,9.8,Rajasthan Royals,0,7
+885,2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,174,8,54,8.7,151,9,41,7.55,Kolkata Knight Riders,23,0
+886,2022,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,180,10,41,9.0,165,6,52,8.25,Chennai Super Kings,15,0
+887,2022,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,168,5,51,8.4,145,6,37,7.25,Delhi Capitals,23,0
+888,2022,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,148,5,51,7.4,123,8,39,6.15,Royal Challengers Bangalore,25,0
+889,2022,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,173,5,39,8.65,161,6,51,8.05,Delhi Capitals,12,0
+890,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,142,4,51,7.1,123,10,50,6.15,Mumbai Indians,19,0
+891,2022,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,152,8,51,7.6,154,4,47,7.7,Royal Challengers Bangalore,0,6
+892,2022,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,155,10,41,7.75,132,10,32,6.6,Mumbai Indians,23,0
+893,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,171,10,38,8.55,157,9,46,7.85,Mumbai Indians,14,0
+894,2022,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Punjab Kings,bat,160,9,52,8.0,165,6,43,8.25,Punjab Kings,0,4
+895,2022,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,159,4,52,7.95,158,7,48,7.9,Kolkata Knight Riders,1,0
+896,2022,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,170,6,50,8.5,181,3,35,9.05,Punjab Kings,0,7
+897,2022,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,178,5,51,8.9,182,5,38,9.1,Sunrisers Hyderabad,0,5
+898,2022,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,160,10,47,8.0,168,9,45,8.4,Chennai Super Kings,0,1
+899,2022,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,171,4,56,8.55,158,8,53,7.9,Royal Challengers Bangalore,13,0
+900,2022,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,141,6,51,7.05,148,3,55,7.4,Chennai Super Kings,0,7
+901,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,171,7,54,8.55,178,7,60,8.9,Rajasthan Royals,0,3
+902,2023,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,183,4,49,9.15,193,8,53,9.65,Mumbai Indians,0,2
+903,2023,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,167,6,48,8.35,179,7,43,8.95,Rajasthan Royals,0,3
+904,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,193,5,43,9.65,200,7,56,10.0,Sunrisers Hyderabad,0,3
+905,2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,field,173,8,39,8.65,179,3,48,8.95,Mumbai Indians,0,7
+906,2023,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,127,6,51,6.35,131,8,52,6.55,Chennai Super Kings,0,2
+907,2023,"M. Chinnaswamy Stadium, Bangalore",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,154,9,48,7.7,139,10,59,6.95,Delhi Capitals,15,0
+908,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,155,6,41,7.75,163,9,56,8.15,Royal Challengers Bangalore,0,1
+909,2023,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,200,7,48,10.0,192,9,53,9.6,Chennai Super Kings,8,0
+910,2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,189,10,43,9.45,177,6,42,8.85,Punjab Kings,12,0
+911,2023,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,187,6,58,9.35,198,7,49,9.9,Mumbai Indians,0,3
+912,2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,field,149,5,59,7.45,154,8,42,7.7,Chennai Super Kings,0,2
+913,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,158,5,50,7.9,154,6,56,7.7,Mumbai Indians,4,0
+914,2023,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,180,7,50,9.0,193,5,49,9.65,Delhi Capitals,0,5
+915,2023,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,165,5,51,8.25,160,7,28,8.0,Mumbai Indians,5,0
+916,2023,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,159,8,49,7.95,170,4,37,8.5,Rajasthan Royals,0,6
+917,2023,"Eden Gardens, Kolkata",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,171,6,46,8.55,182,9,58,9.1,Royal Challengers Bangalore,0,1
+918,2023,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,193,9,45,9.65,201,9,44,10.05,Royal Challengers Bangalore,0,1
+919,2023,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,163,8,45,8.15,169,8,47,8.45,Kolkata Knight Riders,0,2
+920,2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,151,6,41,7.55,162,9,50,8.1,Rajasthan Royals,0,1
+921,2023,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,176,7,43,8.8,183,6,52,9.15,Sunrisers Hyderabad,0,4
+922,2023,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,153,10,49,7.65,161,7,51,8.05,Royal Challengers Bangalore,0,3
+923,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,164,7,50,8.2,171,5,42,8.55,Sunrisers Hyderabad,0,5
+924,2023,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,161,7,46,8.05,172,3,40,8.6,Mumbai Indians,0,7
+925,2023,"Arun Jaitley Stadium, Delhi",Punjab Kings,Chennai Super Kings,Punjab Kings,field,161,5,38,8.05,163,5,42,8.15,Chennai Super Kings,0,5
+926,2023,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,159,6,46,7.95,173,9,44,8.65,Rajasthan Royals,0,1
+927,2023,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,163,10,50,8.15,177,5,52,8.85,Sunrisers Hyderabad,0,5
+928,2023,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,153,5,40,7.65,165,4,38,8.25,Delhi Capitals,0,6
+929,2023,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,156,10,45,7.8,170,4,40,8.5,Sunrisers Hyderabad,0,6
+930,2023,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,141,10,45,7.05,147,4,47,7.35,Kolkata Knight Riders,0,6
+931,2023,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,175,5,44,8.75,186,9,43,9.3,Kolkata Knight Riders,0,1
+932,2023,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,148,5,47,7.4,154,7,40,7.7,Kolkata Knight Riders,0,3
+933,2023,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,175,5,37,8.75,181,7,43,9.05,Delhi Capitals,0,3
+934,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,170,9,49,8.5,171,9,64,8.55,Punjab Kings,0,1
+935,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,171,6,41,8.55,176,8,45,8.8,Chennai Super Kings,0,2
+936,2023,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,133,6,47,6.65,119,9,40,5.95,Sunrisers Hyderabad,14,0
+937,2023,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,181,9,44,9.05,196,9,45,9.8,Chennai Super Kings,0,1
+938,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,153,5,58,7.65,143,10,43,7.15,Delhi Capitals,10,0
+939,2023,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,197,5,52,9.85,211,6,49,10.55,Rajasthan Royals,0,4
+940,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,171,7,50,8.55,183,3,32,9.15,Rajasthan Royals,0,7
+941,2023,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Punjab Kings,field,159,8,53,7.95,153,9,45,7.65,Rajasthan Royals,6,0
+942,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,139,9,47,6.95,146,8,57,7.3,Sunrisers Hyderabad,0,2
+943,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,187,9,47,9.35,180,9,52,9.0,Chennai Super Kings,7,0
+944,2023,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,158,8,37,7.9,147,9,39,7.35,Royal Challengers Bangalore,11,0
+945,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,193,4,46,9.65,205,8,44,10.25,Sunrisers Hyderabad,0,2
+946,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,159,7,59,7.95,164,3,57,8.2,Delhi Capitals,0,7
+947,2023,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,204,4,47,10.2,208,8,48,10.4,Kolkata Knight Riders,0,2
+948,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,137,10,56,6.85,139,4,37,6.95,Sunrisers Hyderabad,0,6
+949,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,168,9,41,8.4,176,5,41,8.8,Chennai Super Kings,0,5
+950,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,149,9,44,7.45,160,9,42,8.0,Sunrisers Hyderabad,0,1
+951,2023,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,155,4,53,7.75,130,7,38,6.5,Sunrisers Hyderabad,25,0
+952,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,168,7,55,8.4,169,5,42,8.45,Mumbai Indians,0,5
+953,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,152,9,46,7.6,159,7,54,7.95,Punjab Kings,0,3
+954,2023,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,168,8,44,8.4,175,3,49,8.75,Royal Challengers Bangalore,0,7
+955,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,145,4,52,7.25,151,3,48,7.55,Sunrisers Hyderabad,0,7
+956,2023,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,159,9,42,7.95,157,6,39,7.85,Royal Challengers Bangalore,2,0
+957,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,174,9,55,8.7,189,9,41,9.45,Kolkata Knight Riders,0,1
+958,2023,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,173,9,35,8.65,148,7,41,7.4,Mumbai Indians,25,0
+959,2023,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,164,6,42,8.2,179,7,39,8.95,Sunrisers Hyderabad,0,3
+960,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,152,4,49,7.6,148,8,44,7.4,Kolkata Knight Riders,4,0
