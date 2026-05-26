@@ -23,7 +23,7 @@
 
 | Team Wins | Toss Analysis |
 |-----------|---------------|
-| ![Team Wins](01_team_wins.png) | ![Toss Analysis](03_toss_analysis.png) |
+| ![Team Wins](images/01_team_wins.png) | ![Toss Analysis](03_toss_analysis.png) |
 
 | H2H Heatmap | Chase Success Rate |
 |-------------|-------------------|
