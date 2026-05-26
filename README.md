@@ -14,30 +14,25 @@
 
 ---
 
-## 📸 Project Screenshots
+## 📊 EDA Visualizations
 
-### 🖥️ Interactive Dashboard
-> Open `IPL_Dashboard.html` in any browser — no internet required!
+### 🏆 Total Wins by Team
+![Team Wins](p1_team_wins.png)
 
-### 📊 EDA Visualizations
+### 📈 Season-wise Scoring Trend
+![Season Trend](p2_season_trend.png)
 
-| Team Wins | Toss Analysis |
-|-----------|---------------|
-| ![Team Wins](images/01_team_wins.png) | ![Toss Analysis](03_toss_analysis.png) |
+### 🏃 Chase Success Rate
+![Chase Success](p3_chase.png)
 
-| H2H Heatmap | Chase Success Rate |
-|-------------|-------------------|
-| ![H2H](06_h2h_heatmap.png) | ![Chase](05_chase_success.png) |
+### ⚔️ Head-to-Head Win % Matrix
+![H2H Heatmap](p4_h2h.png)
 
-| Top Batsmen | Top Bowlers |
-|-------------|-------------|
-| ![Batsmen](08_top_batsmen.png) | ![Bowlers](09_top_bowlers.png) |
+### 🤖 Feature Importance
+![Feature Importance](p5_feature_imp.png)
 
-### 🤖 ML Model Results
-
-| Feature Importance | Confusion Matrix | ROC Curve |
-|-------------------|-----------------|-----------|
-| ![Features](11_feature_importance.png) | ![CM](10_model_comparison.png) | ![ROC](12_roc_curve.png) |
+### 📉 Model Accuracy Comparison
+![Model Comparison](p6_model.png)
 
 ---
 
@@ -60,7 +55,6 @@ This project performs a **complete data analytics pipeline** on the IPL dataset 
 | **Data Analysis** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn, Chart.js |
 | **Machine Learning** | Scikit-learn (Logistic Regression, Random Forest) |
-| **NLP/Features** | Label Encoding, Feature Engineering |
 | **Dashboard** | HTML, CSS, JavaScript |
 | **Data Source** | Kaggle IPL Complete Dataset |
 
@@ -73,84 +67,64 @@ IPL-Match-Analytics/
 │
 ├── 📄 ipl_analytics_kaggle.py      # Main EDA + ML script
 ├── 📄 ipl_powerbi_export.py        # Power BI data exporter
-├── 📄 generate_ipl_data.py         # Synthetic data generator
 ├── 🌐 IPL_Dashboard.html           # Interactive browser dashboard
 │
 ├── 📊 matches.csv                  # Kaggle IPL match data (1090 rows)
 ├── 📊 deliveries.csv               # Ball-by-ball data (260K+ rows)
 ├── 📊 ipl_matches_clean.csv        # Cleaned match data
 ├── 📊 ipl_team_stats.csv           # Team-wise statistics
-├── 📊 ipl_top_players.csv          # Top batsmen & bowlers
-├── 📊 ipl_season_summary.csv       # Season-wise summary
-│
-├── 🖼️ 01_team_wins.png
-├── 🖼️ 02_wins_per_season.png
-├── 🖼️ 03_toss_analysis.png
-├── 🖼️ 04_venue_toss_impact.png
-├── 🖼️ 05_chase_success.png
-├── 🖼️ 06_h2h_heatmap.png
-├── 🖼️ 07_powerplay_runs.png
-├── 🖼️ 08_top_batsmen.png
-├── 🖼️ 09_top_bowlers.png
-├── 🖼️ 10_model_comparison.png
-├── 🖼️ 11_feature_importance.png
-└── 🖼️ 12_roc_curve.png
+└── 📊 ipl_season_summary.csv       # Season-wise summary
 ```
 
 ---
 
 ## 🚀 How to Run
 
-### 1️⃣ Clone the repository
 ```bash
+# 1. Clone repo
 git clone https://github.com/NANCYGAUTAM78/IPL-Match-Analytics.git
 cd IPL-Match-Analytics
-```
 
-### 2️⃣ Install dependencies
-```bash
+# 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
-```
 
-### 3️⃣ Run the analytics script
-```bash
+# 3. Run analytics
 python ipl_analytics_kaggle.py
-```
 
-### 4️⃣ Open the Dashboard
-Simply double-click `IPL_Dashboard.html` in your browser — no server needed! 🌐
+# 4. Open dashboard — just double-click!
+# IPL_Dashboard.html → opens in browser
+```
 
 ---
 
-## 📈 Key Results & Insights
+## 📈 Key Results
 
 | Metric | Value |
 |--------|-------|
 | 📦 Total Matches Analyzed | **1,090** |
 | 🗃️ Delivery Records | **260,920+** |
 | 📅 Seasons Covered | **2008 – 2023** |
-| 🏆 Most Wins | **Mumbai Indians** |
 | 🎯 LR Model Accuracy | **56.9%** |
 | 🌲 Random Forest Accuracy | **51.8%** |
 | 📊 Above Random Baseline | **+6.9%** |
 
 ### 🔍 Key Findings
-- 🏏 **Toss impact is minimal** — toss winner wins only 50.2% of matches
-- 🏃 **RCB has highest chase success rate** at 65.7%
+- 🏏 Toss impact is minimal — winner wins only **50.2%** of matches
+- 🏃 **RCB** has highest chase success rate at **65.7%**
 - 📍 **M. Chinnaswamy Stadium** hosted the most matches (130)
-- 📈 **Historical win rate** is the strongest predictor of match outcome
-- 🌟 **CSK dominates MI** with 74.3% head-to-head win rate
+- 📈 **Historical win rate** is the strongest predictor of outcome
+- 🌟 **CSK dominates MI** with **74.3%** head-to-head win rate
 
 ---
 
-## 🌐 Interactive Dashboard Features
+## 🌐 Interactive Dashboard
 
 | Tab | Features |
 |-----|----------|
-| 📊 **Overview** | KPI cards, season trend, toss donut, wins bar chart |
+| 📊 **Overview** | KPI cards, season trend, toss analysis, team wins |
 | 🏆 **Teams** | Win leaderboard, score distribution, venue stats |
-| ⚔️ **Matchups** | H2H win % matrix, rivalry highlights, toss impact |
-| 🤖 **Predictor** | Live win probability tool with team & match inputs |
+| ⚔️ **Matchups** | H2H win % matrix, rivalry highlights |
+| 🤖 **Predictor** | Live win probability tool |
 
 ---
 
@@ -163,12 +137,6 @@ Simply double-click `IPL_Dashboard.html` in your browser — no server needed! �
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
-⭐ <b>If you found this project helpful, please give it a star!</b> ⭐
+⭐ <b>If you found this helpful, please give it a star!</b> ⭐
 </div>
