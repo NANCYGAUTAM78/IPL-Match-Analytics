@@ -17,22 +17,22 @@
 ## 📊 EDA Visualizations
 
 ### 🏆 Total Wins by Team
-![Team Wins](p1_team_wins.png)
+![Team Wins](images/p1_team_wins.png)
 
 ### 📈 Season-wise Scoring Trend
-![Season Trend](p2_season_trend.png)
+![Season Trend](images/p2_season_trend.png)
 
 ### 🏃 Chase Success Rate
-![Chase Success](p3_chase.png)
+![Chase Success](images/p3_chase.png)
 
 ### ⚔️ Head-to-Head Win % Matrix
-![H2H Heatmap](p4_h2h.png)
+![H2H Heatmap](images/p4_h2h.png)
 
 ### 🤖 Feature Importance
-![Feature Importance](p5_feature_imp.png)
+![Feature Importance](images/p5_feature_imp.png)
 
 ### 📉 Model Accuracy Comparison
-![Model Comparison](p6_model.png)
+![Model Comparison](images/p6_model.png)
 
 ---
 
