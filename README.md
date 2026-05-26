@@ -19,9 +19,6 @@
 ### 🖥️ Interactive Dashboard
 > Open `IPL_Dashboard.html` in any browser — no internet required!
 
-<!-- STEP: Take a screenshot of your dashboard and save as 'screenshots/dashboard_overview.png' -->
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
 ### 📊 EDA Visualizations
 
 | Team Wins | Toss Analysis |
